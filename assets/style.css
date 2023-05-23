@@ -1,0 +1,70 @@
+:root {
+  --green: #498d4c;
+  --red: #ff4062;
+}
+
+@media (prefers-color-scheme: dark) {
+:root {
+  --black: #fffcf9;
+  --white: #16181c;
+}
+}
+
+@media (prefers-color-scheme: light) {
+:root {
+  --white: #fffcf9;
+  --black: #16181c;
+}
+}
+
+
+body {
+  font-family: "Space Mono";
+  background-color: var(--white);
+}
+
+
+a:link {
+  color: var(--green);
+  background-color: var(--white);
+  transition: all 0.22s ease;
+}
+a:visited {
+  color: var(--green);
+  background-color: var(--white);
+  transition: all 0.22s ease;
+}
+a:active {
+  color: var(--green);
+  background-color: var(--white);
+  text-decoration: underline;
+  transition: all 0.22s ease;
+}
+a:hover {
+  color: var(--white);
+  background-color: var(--red);
+  text-decoration: underline;
+  transition: all 0.22s ease;
+}
+
+.chosen{
+  
+  color: var(--white);
+  background-color: var(--red);
+  text-decoration: underline;
+  transition: all 0.22s ease;
+
+}
+.text{
+  color: var(--black);
+  
+}
+
+.changelater{
+  color: var(--black);
+}
+
+.line{
+  text-decoration: var(--red) wavy line-through;
+  
+}

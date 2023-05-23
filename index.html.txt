@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+  <title>sirmilkman - about</title>
+
+  <link rel="stylesheet" href="assets/style.css" />
+  `
+  <script src="assets/script.js" defer></script>
+
+  <style>
+    div {
+      margin: 50px 10px;
+    }
+  </style>
+  <center>
+    <br />
+    <br />
+
+    <h2 class="changelater">sirmilkman</h2>
+    <h2 class="changelater">make video game</h2>
+
+    <div class="text">
+      <p class = "line">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
+
+      <b>
+        <p>
+          <a href="/index"><span class="chosen">about</span></a>
+          ~
+          <a href="https://sirmilkman.itch.io"><span>games</span></a>
+          ~
+          <a href="/contact"><span>contact</span></a>
+          ~
+          
+        </p>
+      </b>
+
+      <p class = "line">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
+    </div>
+    <p class="changelater">
+      
+      
+      freeware gamedev extraordinaire 
+      
+      <br />
+      <br>
+      maker of <a href="https://sirmilkman.itch.io"><span>games</span></a> and much more</a>
+      
+      <br />
+      <br />
+      if you'd like to colaborate, <br />please <a href="/contact"><span>contact</span></a> me!
+
+      <br />
+      <br />
+    </p>
+
+    <p style="color: #fffcf9">
+      <a href="https://ergman.itch.io"><span>&#9664;</span></a>
+      <a href="https://youcanneverleave.art"><span>Part of Paradise</span></a>
+      <a href="https://coreyhardt.itch.io"><span>&#9654;</span></a>
+    </p>
+  </center>
+</html>
