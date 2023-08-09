@@ -213,8 +213,8 @@ color: var(--black);
 
 #checkbox {
   position: absolute;
-  top: 8%;
-  left: 80%;
+  top: 10px;
+  right: 10px;
   user-select: none;
   --size: 2rem;
   appearance: none;
