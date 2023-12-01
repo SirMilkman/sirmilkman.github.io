@@ -1,0 +1,128 @@
+<html>
+  <title>sirmilkman - november roundup</title>
+
+  <link rel="stylesheet" href="assets/style.css" />
+
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Space Mono"
+    rel="stylesheet"
+  />
+  <style>
+    body {
+      font-family: "Space Mono";
+    }
+  </style>
+<input type="checkbox" id="checkbox" />
+<div id="background"></div>
+<br /><br />
+
+<b>&nbsp;&nbsp;<a href="blog"><span>&#9664; back</span></a></b><br><br />
+
+<h2 class="changelater">
+  November Roundup
+</h2>
+  
+  
+<span class="changelater"> 
+
+
+Been writing these roundups personally for about 4 months, but thought it would be nice to store them here from now on!
+Essentially this is a list of everything I've made and what they might become.
+<br><br>
+Softbody Suika Game:<br>
+First thing I worked on is a softbody suika game idea.
+Still working on this actively.
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/3tejUIp.gif" />
+</div>
+</div>
+<br><br> <br>
+Horror Game:<br>
+Worked on this at the beginning of the month.
+Put it on the backburner because its larger than I have time to make right now.
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/OpDpP8i.gif" />
+</div>
+</div>
+<br><br> <br>
+Mockups:<br>
+Been trying to get better at pixel art this month! Here are some tiny game mockups I've made.
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/QI2I5ZV.png" />
+</div>
+</div>
+  <div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/aTWJsCq.png" />
+</div>
+</div>
+  <div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/GOhLWJq.png" />
+</div>
+</div>
+<br><br> <br>
+Laser Refection:<br>
+This one was just a fun test! Made it in a few hours.
+Probably not going anywhere tho... maybe a golf game... maybe.. no! not now!
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/cF1XGgQ.gif" />
+</div>
+</div>
+<br><br> <br>
+Paradise Blitz V:<br>
+Originally this started out as a project for paradise blitz, but it became pretty big.
+I really like this idea, but I dont really have time to finish it up right now :(
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/MbXazFq.gif" />
+</div>
+</div>
+<br><br> <br>
+Remix Jam:<br>
+Made a prototype for Frogrammer's Remix Jam before I had to step away because of irl stuff. Oh well!
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/rxKO7KH.gif" />
+</div>
+</div>
+<br><br> <br>
+Learning Blender:<br>
+Finally, I've started to learn blender! Its honestly a really fun program. Heres a little render I made.
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/DDdKQAs.png" />
+</div>
+</div>
+<br><br> <br>
+That it! <br>
+See you next month!<br><br> <br>
+</span>
+
+  
+<!-- ADD PHOTO   -->
+<!-- 
+<br><br>
+<div class="photo">
+<div class="img">
+<img class="imgREAL" src="https://i.imgur.com/KPp0cpk.jpg" />
+</div>
+</div>
+<br><br> 
+-->
+  
+<!-- 1 line breakpoint -->
+<!-- <br><br> -->
+</html>
