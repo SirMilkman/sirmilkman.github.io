@@ -62,7 +62,6 @@ a:hover {
 
 .changelater{
   color: var(--black);
-	right:80px;
 }
 
 .changelater2{
@@ -87,7 +86,7 @@ color: var(--black);
 		text-align: left;
     	vertical-align: top;
 		
-        width:23%;
+        width:390px;
 	}
 
 	.imgText {
@@ -114,7 +113,7 @@ color: var(--black);
 
     
 	.imgREAL {
-		width: 100%;
+		width: 390px;
 		height: auto;
 		display:block;
 		position: relative;
