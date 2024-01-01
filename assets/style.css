@@ -59,7 +59,12 @@ a:hover {
   color: var(--black);
   
 }
-
+.date{
+  color: var(--gray);
+  transform: translate(0px, -4px);
+  font-size: 13px;
+  
+}
 .changelater{
   color: var(--black);
 }
