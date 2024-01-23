@@ -60,7 +60,7 @@ a:hover {
 .date{
   color: var(--gray);
   transform: translate(0px, -4px);
-  font-size: 20px;
+  font-size: 13px;
   
 }
 
@@ -71,7 +71,9 @@ a:hover {
   color: var(--black);
 }
 .thxjveam {
-  pointer-events: none;
+   z-index: 5;
+
+
   margin-top: -72px;
   display: flex;
   flex-direction: column;
@@ -92,7 +94,7 @@ a:hover {
   text-align: right;
   vertical-align: top;
 
-  width: 390px;
+  width: 530px;
 }
 
 .imgText {
@@ -115,7 +117,7 @@ a:hover {
 }
 
 .imgREAL {
-  width: 390px;
+  width: 530px;
   height: auto;
   display: block;
   position: relative;
@@ -147,6 +149,7 @@ a:hover {
     --gray: #b6b6b6;
   }
   #checkbox {
+   
     box-shadow: inset calc(var(--size) * 0.33) calc(var(--size) * -0.25) 0;
     border-radius: 999px;
     color: var(--black);
