@@ -4,25 +4,25 @@
 }
 
 @media (prefers-color-scheme: dark) {
-:root {
-  --black: #fffcf9;
-  --white: #16181c;
-}
+  :root {
+    --black: #fffcf9;
+    --white: #16181c;
+    --gray: #606060;
+  }
 }
 
 @media (prefers-color-scheme: light) {
-:root {
-  --white: #fffcf9;
-  --black: #16181c;
+  :root {
+    --white: #fffcf9;
+    --black: #16181c;
+    --gray: #b6b6b6;
+  }
 }
-}
-
 
 body {
   margin: -20px 10px;
   background-color: var(--white);
 }
-
 
 a:link {
   color: var(--green);
@@ -47,115 +47,98 @@ a:hover {
   transition: all 0.22s ease;
 }
 
-.chosen{
-  
+.chosen {
   color: var(--white);
   background-color: var(--red);
   text-decoration: underline;
   transition: all 0.22s ease;
-
 }
-.text{
+.text {
   color: var(--black);
+}
+
+.date{
+  color: var(--gray);
+  transform: translate(0px, -4px);
+  font-size: 13px;
   
 }
 
-.changelater{
+.changelater {
+  width: 30vw;
+  
+  min-width: 464px;
   color: var(--black);
 }
+.thxjveam {
+   z-index: 5;
 
-.changelater2{
-color: var(--black);
-	font-size: 11px;
+
+  margin-top: -72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.line{
+.line {
   text-decoration: var(--red) wavy line-through;
-  
 }
 
-.slash{
-    color: var(--black);
-
+.slash {
+  color: var(--black);
 }
-
 
 .photo {
-		padding: 10px;
-		display: inline-block;
-		text-align: left;
-    	vertical-align: top;
-		
-        width:390px;
-	}
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
 
-	.imgText {
-    transform: translate(10px, -40px);
-    opacity: 0; 
-    background-color: var(--black);
-		padding: 0px 0 0px 0;
-		color: var(--white);
-		float:left;
-		line-height: 1.1em;
-    font-size: 110%;
-     outline-style: solid;
-        outline-color: var(--black);
-    
-		text-align: left;
-    -webkit-transition: all .4s ease;
-		-moz-transition: all .4s ease;
-		-ms-transition: all .4s ease;
-		-o-transition: all .4s ease;
-		transition: all .4s ease;
-  
+  width: 530px;
+}
 
-	}
+.imgText {
+  transform: translate(10px, -40px);
+  opacity: 0;
+  background-color: var(--black);
+  padding: 0px 0 0px 0;
+  color: var(--white);
+  float: left;
+  line-height: 1.1em;
+  font-size: 110%;
+  outline-style: solid;
+  outline-color: var(--black);
+  text-align: left;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
 
-    
-	.imgREAL {
-		width: 390px;
-		height: auto;
-		display:block;
-		position: relative;
-		float:left;
-	}
+.imgREAL {
+  width: 530px;
+  height: auto;
+  display: block;
+  position: relative;
+  float: left;
+}
 
-    .img{
-        outline-style: solid;
-        outline-color: var(--black);
-      
-        border-radius: 4px;
-        position:relative;
-        overflow:hidden;
-    }
-
+.img {
+  outline-style: solid;
+  outline-color: var(--black);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+}
 
 .photo:hover > .imgText {
-       opacity: 1; 
-        transform: translate(10px, -50px);
-	     
-	}
+  opacity: 1;
+  transform: translate(10px, -50px);
+}
 
-.artText{
-  color: var(--black);
-  text-align: left;
-}
-.grid-container {
-  display: grid;
-  width: 100%;
-  grid-template-columns: auto auto auto auto auto  ;
-  grid-gap: 10px;
-  padding: 10px;
 
-  
-}
-.grid-item {
-  background-color: var(--white);
-  border: 1px solid var(--black);
-  padding: 20px;
-  font-size: 50%;
-  text-align: left;
-}
+
 
 /* light mode switch technology: */
 
@@ -163,8 +146,10 @@ color: var(--black);
   #checkbox:checked ~ * {
     --white: #fffcf9;
     --black: #16181c;
+    --gray: #b6b6b6;
   }
   #checkbox {
+   
     box-shadow: inset calc(var(--size) * 0.33) calc(var(--size) * -0.25) 0;
     border-radius: 999px;
     color: var(--black);
@@ -187,8 +172,9 @@ color: var(--black);
 
 @media (prefers-color-scheme: light) {
   #checkbox:checked ~ * {
-    --white: #16181c;
     --black: #fffcf9;
+    --white: #16181c;
+    --gray: #606060;
   }
   #checkbox {
     transform: scale(0.75);
