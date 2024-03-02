@@ -7,7 +7,7 @@
 }
 
 body {
-  max-width: 100%;
+   max-width: 100%;
   overflow-x: hidden;
   margin: -20px 10px;
   background-color: var(--white);
@@ -16,14 +16,14 @@ body {
 a:link {
   text-decoration: none;
 }
-.copyright {
+.copyright{
   font-family: "Josefin Sans", sans-serif;
   font-size: 20px;
   position: fixed;
   bottom: 20;
   width: 100%;
 }
-.copyrightNotSticky {
+.copyrightNotSticky{
   font-family: "Josefin Sans", sans-serif;
   font-size: 20px;
 }
@@ -36,8 +36,8 @@ a:link {
   height: 120px;
   border-radius: 5px;
   box-shadow: 6px 6px 0px var(--black), 5px 5px 0px var(--black),
-    4px 4px 0px var(--black), 3px 3px 0px var(--black), 2px 2px 0px var(--black),
-    1px 1px 0px var(--black);
+  4px 4px 0px var(--black), 3px 3px 0px var(--black), 2px 2px 0px var(--black),
+  1px 1px 0px var(--black);
   text-align: center;
   position: relative;
   top: 30px;
@@ -80,9 +80,13 @@ a:link {
   background-color: var(--green);
 }
 
+
+
+
 /* Squiggle Lines */
 .acd {
   font-size: 50px;
+
 
   letter-spacing: -7px;
 }
@@ -106,10 +110,9 @@ a:link {
 }
 /* Outlinks Stuff */
 .chosen {
-  text-decoration: underline;
   position: relative;
   top: -4px;
-  left: -4px;
+  left: 0px;
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
   color: var(--green);
 }
@@ -132,7 +135,62 @@ a:link {
   transition: all 0.22s ease;
 }
 
-.link {
+.changelater {
+  width: 30vw;
+  
+  min-width: 464px;
+  color: var(--black);
+}
+
+.blogTitle{
+  width: 30vw;
+  font-family: "Paytone One", sans-serif;
+  min-width: 464px;
+  color: var(--black);
+}
+.blogText{
+  width: 30vw;
+  font-family: "Josefin Sans", sans-serif;
+  min-width: 464px;
+  color: var(--black);
+}
+.blog {
+   z-index: 5;
+
+
+  margin-top: -72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blogLink{
+  z-index: 5;
+
+
+
+  
+  font-family: "Paytone One", sans-serif;
+  text-decoration: underline;
+   position: relative;
+  top: -40px;
+  left: -210px;
+  color: var(--red);
+  background-color: var(--white);
+  transition: all 0.22s ease;
+}
+.blogLink:hover {
+  color: var(--green);
+  position: relative;
+  top: -44px;
+  left: -214px;
+  text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
+
+  transition: all 0.22s ease;
+  
+}
+
+.link{
   font-family: "Paytone One", sans-serif;
   text-decoration: underline;
   position: relative;
@@ -141,6 +199,7 @@ a:link {
   color: var(--red);
   background-color: var(--white);
   transition: all 0.22s ease;
+  
 }
 .link:hover {
   color: var(--green);
@@ -150,9 +209,11 @@ a:link {
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
 
   transition: all 0.22s ease;
+  
 }
 /* Header Text */
 .head {
+  
   margin-left: 40px;
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
   font-family: "Paytone One", sans-serif;
@@ -163,6 +224,10 @@ a:link {
   transform: translate(-30px, 0px);
   color: var(--green);
 }
+
+
+
+
 
 .homePageImage {
   z-index: 0;
@@ -270,7 +335,9 @@ a:link {
   margin-top: 30px;
   font-weight: bold;
   font-size: 20px;
-
+  
+  
+  
   font-family: "Roboto Slab", sans-serif;
   width: 550px;
   border-radius: 8px 20px;
@@ -292,6 +359,7 @@ a:link {
   transition: all 0.22s ease;
 }
 .cutout:before {
+  
   content: "";
   z-index: 2;
   width: 100%;
@@ -313,11 +381,12 @@ a:link {
   display: inline-block;
   text-align: right;
   vertical-align: top;
-
+ 
   width: 530px;
 }
 
 .imgText {
+  
   transform: translate(15px, -40px);
   opacity: 0;
   background-color: var(--black);
