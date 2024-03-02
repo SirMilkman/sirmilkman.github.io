@@ -7,4 +7,5 @@ You are free to reference it though.
 
 The fonts are
 Paytone One: https://fonts.google.com/specimen/Paytone+One
+
 Josefin Sans: https://fonts.google.com/specimen/Josefin+Sans
