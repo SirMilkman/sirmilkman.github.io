@@ -104,7 +104,7 @@ a:hover{
 /* Squiggle Lines */
 .acd {
   font-size: 50px;
-
+margin-top: -24px;
 
   letter-spacing: -7px;
 }
@@ -118,12 +118,11 @@ a:hover{
 /* Links To Other Places */
 .outlinks {
   font-family: "Paytone One", sans-serif;
-  width: 100%;
 
-  text-align: right;
+
+  text-align: center;
   padding-bottom: 10px;
-  margin-top: -90px;
-  max-width: 820px;
+
   color: var(--green);
 }
 /* Outlinks Stuff */
@@ -239,14 +238,15 @@ a:hover{
 /* Header Text */
 .head {
   
-  margin-left: 40px;
+  margin-top: -50px;
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
   font-family: "Paytone One", sans-serif;
-  width: 0%;
-  margin-bottom: -15px;
-  text-align: left;
-  min-width: 750px;
-  transform: translate(-30px, 0px);
+  width: 100%;
+  line-height: 35px;
+  margin-bottom: 90px;
+  text-align: center;
+
+ 
   color: var(--green);
 }
 
