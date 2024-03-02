@@ -106,6 +106,7 @@ a:link {
 }
 /* Outlinks Stuff */
 .chosen {
+  text-decoration: underline;
   position: relative;
   top: -4px;
   left: -4px;
