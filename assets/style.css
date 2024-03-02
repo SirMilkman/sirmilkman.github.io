@@ -13,9 +13,27 @@ body {
   background-color: var(--white);
 }
 
-a:link {
+a {
+  font-family: "Josefin Sans", sans-serif;
   text-decoration: none;
+
+
+  color: var(--red);
+  background-color: var(--white);
+  transition: all 0.22s ease;
 }
+a:hover{
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: underline;
+
+
+  color: var(--green);
+  background-color: var(--white);
+  transition: all 0.22s ease;
+  
+}
+
+
 .copyright{
   font-family: "Josefin Sans", sans-serif;
   font-size: 20px;
@@ -112,7 +130,7 @@ a:link {
 .chosen {
   position: relative;
   top: -4px;
-  left: -4px;
+  left: 0px;
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
   color: var(--green);
 }
@@ -169,25 +187,29 @@ a:link {
 
 
 
-  
+
   font-family: "Paytone One", sans-serif;
   text-decoration: underline;
    position: relative;
   top: -40px;
-  left: -210px;
+  left: 0px;
   color: var(--red);
   background-color: var(--white);
   transition: all 0.22s ease;
 }
 .blogLink:hover {
   color: var(--green);
-  position: relative;
+  
   top: -44px;
-  left: -214px;
+  left: -4px;
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
 
   transition: all 0.22s ease;
   
+}
+.date{
+  color: var(--gray);
+  font-size: 18px;
 }
 
 .link{
@@ -201,6 +223,7 @@ a:link {
   transition: all 0.22s ease;
   
 }
+
 .link:hover {
   color: var(--green);
   position: relative;
