@@ -32,9 +32,9 @@ a:hover {
 
 .squiggle{
   color: var(--black);
-  margin-top: -20px;
+  margin-top: -70px;
   margin-bottom: -20px;
-  letter-spacing: -10.3px;
+  letter-spacing: -9.3px;
   font-size: 35px;
 }
 
@@ -119,9 +119,9 @@ a:hover {
 /* Links To Other Places */
 .outlinks {
   font-family: "Paytone One", sans-serif;
-
+  
   text-align: center;
-  padding-bottom: 10px;
+  padding-bottom: 80px;
 
   color: var(--green);
 }
@@ -235,7 +235,7 @@ a:hover {
   font-family: "Paytone One", sans-serif;
   width: 100%;
   line-height: 35px;
-  margin-bottom: 40px;
+  margin-bottom: 90px;
   text-align: center;
 
   color: var(--green);
