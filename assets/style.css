@@ -385,7 +385,18 @@ a:hover {
 .slash {
   color: var(--black);
 }
+.photoMini {
 
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+   padding-right: 17px;
+
+  padding-bottom: 20px;
+  height: 265px;
+  width: 265px;
+
+}
 .photo {
   display: inline-block;
   text-align: right;
@@ -393,6 +404,7 @@ a:hover {
 
   width: 530px;
 }
+
 
 .imgText {
   transform: translate(15px, -40px);
@@ -416,6 +428,14 @@ a:hover {
 }
 .imgREAL {
   width: 530px;
+  height: auto;
+  display: block;
+  position: relative;
+  float: left;
+}
+.imgMini {
+
+  width: 265px;
   height: auto;
   display: block;
   position: relative;
