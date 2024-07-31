@@ -225,7 +225,7 @@ a:hover {
   top: -4px;
   left: -4px;
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
-
+  font-family: "Paytone One", sans-serif;
   transition: all 0.22s ease;
 }
 /* Header Text */
