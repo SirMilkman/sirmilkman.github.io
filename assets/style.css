@@ -475,7 +475,7 @@ a:hover {
   position: absolute;
   background: linear-gradient(
     90deg,
-    rgb(5, 9, 20, 1) 60%,
+    rgb(5, 9, 20, 1) 20%,
     rgb(5, 9, 20, 0) 150%
   );
 }
