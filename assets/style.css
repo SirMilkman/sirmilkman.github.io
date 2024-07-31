@@ -499,7 +499,8 @@ a:hover {
   display: inline-block;
   text-align: right;
   vertical-align: top;
-
+  margin-right: 15px;
+  margin-left: 15px;
   width: 530px;
 }
 
