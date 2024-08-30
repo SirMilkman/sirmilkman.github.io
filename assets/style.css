@@ -19,7 +19,7 @@ a {
 
   color: var(--red);
   background-color: var(--white);
-  transition: all 0.22s ease;
+
 }
 a:hover {
   font-family: "Josefin Sans", sans-serif;
@@ -27,7 +27,7 @@ a:hover {
 
   color: var(--green);
   background-color: var(--white);
-  transition: all 0.22s ease;
+
 }
 
 .squiggle{
@@ -137,7 +137,7 @@ a:hover {
 }
 .notChosen {
   font-family: "Paytone One", sans-serif;
-  text-decoration: underline;
+  text-decoration: none;
   position: relative;
   top: -0px;
   left: 0px;
@@ -162,48 +162,7 @@ a:hover {
   color: var(--black);
 }
 
-.blogTitle {
-  width: 30vw;
-  font-family: "Paytone One", sans-serif;
-  min-width: 464px;
-  color: var(--black);
-}
-.blogText {
-  width: 30vw;
-  font-family: "Josefin Sans", sans-serif;
-  min-width: 464px;
-  color: var(--black);
-}
-.blog {
-  z-index: 5;
 
-  margin-top: -72px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.blogLink {
-  z-index: 5;
-
-  font-family: "Paytone One", sans-serif;
-  text-decoration: underline;
-  position: relative;
-  top: -40px;
-  left: 0px;
-  color: var(--red);
-  background-color: var(--white);
-  transition: all 0.22s ease;
-}
-.blogLink:hover {
-  color: var(--green);
-
-  top: -44px;
-  left: -4px;
-  text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
-
-  transition: all 0.22s ease;
-}
 .date {
   color: var(--gray);
   font-size: 18px;
@@ -211,7 +170,7 @@ a:hover {
 
 .link {
   font-family: "Paytone One", sans-serif;
-  text-decoration: underline;
+  text-decoration: none;
   position: relative;
   top: -0px;
   left: 0px;
@@ -556,4 +515,91 @@ a:hover {
     img {
         width: 100%;
     }
+}
+
+
+.blogTitle {
+  width: 30vw;
+  font-family: "Paytone One", sans-serif;
+  min-width: 464px;
+  color: var(--black);
+}
+.blogTo {
+   text-align: left;
+    margin: auto;
+    padding: 0;
+
+    list-style-type: none;
+}
+.blog-list {
+    width: min(25rem, 120%);
+    display: block;
+    text-align: left;
+    margin: auto;
+    padding: 0;
+}
+
+.blog-list li {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.25em;
+}
+.post-date {
+
+  font-family: "Paytone One", sans-serif;
+  transform: translate(0px,4px);
+  color: var(--gray);
+
+}
+.blog-list .post-date {
+    flex-shrink: 0;
+    font-size: small;
+}
+
+.float-right {
+    float: right;
+    text-align: right;
+    display:block;
+    overflow: hidden;
+    clear: both;
+    padding-left: 1em;
+}
+.blogText {
+
+  width: 30vw;
+  font-family: "Josefin Sans", sans-serif;
+  min-width: 464px;
+  color: var(--black);
+}
+.blog {
+  z-index: 5;
+
+  margin-top: -72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blogLink {
+  z-index: 5;
+
+  font-family: "Paytone One", sans-serif;
+  text-decoration: underline;
+  position: relative;
+  top: -40px;
+  left: 0px;
+  color: var(--red);
+  background-color: var(--white);
+  transition: all 0.22s ease;
+}
+.blogLink:hover {
+  color: var(--green);
+
+  top: -44px;
+  left: -4px;
+  text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
+
+  transition: all 0.22s ease;
 }
