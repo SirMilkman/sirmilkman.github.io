@@ -532,7 +532,7 @@ a:hover {
     list-style-type: none;
 }
 .blog-list {
-    width: min(25rem, 120%);
+    width: min(29rem, 120%);
     display: block;
     text-align: left;
     margin: auto;
