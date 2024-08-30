@@ -48,6 +48,7 @@ a:hover {
 .copyrightNotSticky {
   font-family: "Josefin Sans", sans-serif;
   font-size: 20px;
+
 }
 /* The green Squares */
 .freewareAbout {
@@ -483,20 +484,7 @@ a:hover {
 .slash {
   color: var(--black);
 }
-.photoMini {
 
-  display: inline-block;
-  text-align: right;
-  vertical-align: top;
-   padding-right: 17px;
-margin-right: 15px;
-  margin-left: 15px;
-  padding-bottom: 20px;
-  margin-bottom: 15px;
-  height: auto;
-  width: 265px;
-
-}
 .photo {
   display: inline-block;
   text-align: right;
@@ -506,10 +494,10 @@ margin-right: 15px;
   width: 530px;
 }
 
-
 .imgText {
-  transform: translate(15px, -40px);
+  transform: translate(15px, -80%);
   opacity: 0;
+  vertical-align: text-bottom;
   background-color: var(--black);
   padding: -10px 0 0px 0;
   font-family: "Josefin Sans", sans-serif;
@@ -528,26 +516,6 @@ margin-right: 15px;
   transition: all 0.4s ease;
 }
 
-.imgTextOL {
-  transform: translate(15px, -20px);
-  opacity: 0;
-  background-color: var(--black);
-  padding: -10px 0 0px 0;
-  font-family: "Josefin Sans", sans-serif;
-  color: var(--white);
-  float: left;
-  line-height: 1.1em;
-  font-size: 110%;
-  outline-style: solid;
-  outline-color: var(--black);
-  outline-width: 8px;
-  text-align: left;
-  -webkit-transition: all 0.4s ease;
-  -moz-transition: all 0.4s ease;
-  -ms-transition: all 0.4s ease;
-  -o-transition: all 0.4s ease;
-  transition: all 0.4s ease;
-}
 .imgREAL {
   width: 530px;
   height: auto;
@@ -555,15 +523,7 @@ margin-right: 15px;
   position: relative;
   float: left;
 }
-.imgMini {
 
-  width: 265px;
-  height: auto;
-  display: block;
-  position: relative;
-  float: left;
-
-}
 .img {
   outline-style: solid;
   outline-color: var(--black);
@@ -572,20 +532,28 @@ margin-right: 15px;
   position: relative;
   overflow: hidden;
 }
-.photo:hover > .imgText {
+.photo:hover > .imgOneline {
   opacity: 1;
-  transform: translate(15px, -55px);
+  transform: translate(15px, -173%);
 }
-.photoMini:hover > .imgText {
+.photo:hover > .imgTwoline {
   opacity: 1;
-  transform: translate(15px, -55px);
+  transform: translate(15px, -139%);
 }
 
-.photo:hover > .imgTextOL {
-  opacity: 1;
-  transform: translate(15px, -35px);
+.gallery-grid {
+    max-width: 60rem;
+    margin: auto;
+    columns: 3;
+    gap: 1.3em;
+    padding: 1em;
 }
-.photoMini:hover > .imgTextOL {
-  opacity: 1;
-  transform: translate(15px, -35px);
+
+.gallery-grid > * {
+    break-inside: avoid;
+    width: 100%;
+    height: auto;
+    img {
+        width: 100%;
+    }
 }
