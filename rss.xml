@@ -1,0 +1,32 @@
+
+
+<rss version="2.0">
+<channel>
+
+<title>milkmn's happenings</title>
+<link>sirmilkman.com</link>
+<description>updates on what sirmilkman is doing</description>
+<language>en-us</language>
+
+<item>
+<title>New website layout!</title>
+<pubDate>Sat, 19 October 2024 7:01:00 -0700</pubDate>
+<link>http://127.0.0.1:4000/happenings</link>
+<author>contactsirmilkman@gmail.com</author>
+<description>
+I overhauled my website completely! There’s so much new stuff. Including this very page!
+</description>
+</item>
+
+<item>
+<title>New website layout!</title>
+<pubDate>Sat, 19 October 2024 7:01:00 -0700</pubDate>
+<link>google.com</link>
+<author>contactsirmilkman@gmail.com</author>
+<description>
+Testing if links work here.
+</description>
+</item>
+
+</channel>
+</rss>

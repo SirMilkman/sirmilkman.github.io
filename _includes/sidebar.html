@@ -1,0 +1,51 @@
+
+
+	<div class = "sidebar">
+		Main: <br>
+		 &nbsp;&nbsp;&nbsp;# <a href="/index" >Home</a> <br>
+		 &nbsp;&nbsp;&nbsp;# <a href="/nav">Navigation</a> <br>
+		 &nbsp;&nbsp;&nbsp;# <a href="https://sirmilkman.itch.io/">Games</a> <br>
+		 &nbsp;&nbsp;&nbsp;# <a href="/contact">Contact</a> <br>
+<br><hr/><br>
+
+		Blog: <br>
+		 <details>
+			<summary><span  class = "fakeLink">Roundups</span></summary>
+			<p>
+			  	<ul>
+			  		{% for cat in site.tags %}
+
+					    {% for post in cat[1] %}
+						    {% if post.tags[0] == "Roundup" %}
+							  &nbsp;&nbsp;#&nbsp; <a href="{{ post.url }}">{{ post.short }}</a> <br>
+							{% endif %}	   
+					    {% endfor %}			
+
+				    {% endfor %}
+				</ul>
+			</p>
+		</details>
+		&nbsp;&nbsp;&nbsp;# <a href="/happenings" >Happenings</a> <br>
+
+<br><hr/><br>
+
+		Works: <br>
+		&nbsp;&nbsp;&nbsp;# <a href="/pixelart">Pixels</a> <br>
+		&nbsp;&nbsp;&nbsp;# <a href="/photos">Photgraphy</a> <br>
+		&nbsp;&nbsp;&nbsp;# <a href="/art" >Physical Art</a> <br> 
+		&nbsp;&nbsp;&nbsp;# <a href="https://www.youtube.com/playlist?list=PLRzmR6txMxFb2jkLh-WfrYVz22vIAWsHS">Piano</a> <br>
+
+<br><hr/><br>
+	Misc: <br>
+		 &nbsp;&nbsp;&nbsp;# <a href="/webtoys">Web Toys</a> <br>
+		 <details>
+			<summary><span  class = "fakeLink">Game Reviews List</span></summary>
+			<p>
+			  	<ul>
+			  		&nbsp;&nbsp;&nbsp;# <a href="https://docs.google.com/spreadsheets/d/1pL8QTekcJ5uoCdK2nCPBF2KnovAjT4SlDzi179wSKEM/edit?usp=sharing" >2024</a> <br>
+			  		&nbsp;&nbsp;&nbsp;# <a href="https://docs.google.com/spreadsheets/d/1--CWWi3p6P6uNvng7BCrrxto_r1J4G03bciz9XIepmI/edit?usp=sharing" >2023</a> <br>
+				</ul>
+			</p>
+		</details>
+		 
+	</div>

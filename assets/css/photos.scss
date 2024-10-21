@@ -1,0 +1,111 @@
+/* PHOTOS STUFF */
+
+#lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+ 	width: 100%;
+    height: 100%;
+    display: flex;
+	align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    background-color: var(--lightbox-background-color);
+    opacity: 0;
+    transition: all 0.3s ease;
+
+}
+
+#lightbox.active {
+    opacity: 1;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    pointer-events: all;
+}
+
+#lightbox-image {
+    max-width: 100%;
+    max-height: 100%;
+    transform: scale(0.9);
+    outline: 4px solid var(--white);
+}
+
+
+
+.photo {
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+
+
+}
+
+.imgText {
+    pointer-events: none;
+    transform: translate(12px, -80%);
+    opacity: 0;
+    vertical-align: text-bottom;
+    background-color: var(--black);
+
+    font-family: "Josefin Sans", sans-serif;
+    color: var(--white);
+    float: left;
+    line-height: 1.1em;
+    font-size: 100%;
+    outline-style: solid;
+    outline-color: var(--black);
+    outline-width: 8px;
+    text-align: left;
+
+    transition: all 0.35s ease;
+}
+
+.imgREAL {
+  width: 530px;
+  height: auto;
+  display: block;
+  position: relative;
+  float: left;
+  overflow: hidden;
+}
+
+.img {
+  outline-style: solid;
+  outline-color: var(--black);
+  outline-width: 2px;
+  border-radius: 1px;
+  position: relative;
+  overflow: hidden;
+}
+
+.photo > .imgTwoline{
+    
+      margin-bottom: -16px;
+}
+.photo:hover > .imgOneline {
+  opacity: 1;
+  transform: translate(12px, -173%);
+}
+.photo:hover > .imgTwoline {
+  opacity: 1;
+
+  transform: translate(12px, -139%);
+}
+
+.gallery-grid {
+    max-width: 60rem;
+    margin: auto;
+    columns: 2;
+    gap: 1.3em;
+    padding: 1em;
+}
+
+.gallery-grid > * {
+    break-inside: avoid;
+    width: 100%;
+    height: auto;
+    img {
+        width: 100%;
+    }
+}
