@@ -98,6 +98,11 @@ defaults:
       phot: 12
       postD: October 29, 2022
   - scope:
+      path: "assets/images/photos/13"
+    values:
+      phot: 13
+      postD: October 27, 2024
+  - scope:
       path: "assets/images/art"
     values:
       art: true

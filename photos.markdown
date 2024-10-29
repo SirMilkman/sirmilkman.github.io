@@ -19,7 +19,20 @@ permalink: "/photos"
 
 
   
-  
+<div class="gallery-grid">
+	{% assign image_files = site.static_files | where: "phot", 13 %}
+	{% for myimage in image_files %}
+	<div class="photo">
+	    <div class="img ">
+	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	    </div>
+		<div class="imgText imgTwoline">
+		  {{myimage.basename}}<br/>
+		  {{myimage.postD}}
+		</div>
+	</div>
+	{% endfor %}
+</div>  
 <div class="gallery-grid">
 	{% assign image_files = site.static_files | where: "phot", 1 %}
 	{% for myimage in image_files %}
