@@ -34,6 +34,7 @@ A small guide to the various pages of this website.
 
 | # Pixels       | All of my pixelart. Mostly mockups for game I'll never make.               |
 | # Photography  | My photos! Most of it is abandoned buildings and nature. Thats what I like |
+| # Music  | Some of the music I've made hosted on soundcloud published under the game 808093. |
 | # Physical Art | A collection of my physical art. Most of it was made in high school.       |
 | # Piano        | Youtube videos of me playing piano.                                        |
 

@@ -18,8 +18,8 @@ permalink: "/index"
 </div>
 
 <div class = "latest" >
-	Latest Game <br>
-	<a href="https://sirmilkman.itch.io/two-week-megamix">Two-Week Megamix</a>
+	Latest Game: <br>
+	<a href="https://store.steampowered.com/app/3035660/Mini_GUNN/">Minigunn</a>
 </div>
 
 <img src="\assets\main\arinLarge.png" alt="Art of Arin by Boombox5" class="arinPortrait">
@@ -38,8 +38,7 @@ navigation menu on the left to look through my various things.
 
 <div><br><hr></div>
 
-**Site by me!**<br><br>
- <a href="https://github.com/SirMilkman" class="button"> Source Code Here</a>
+**Site by me!** - <a href="https://github.com/SirMilkman" class="button"> Source Code Here</a>
 
 
 

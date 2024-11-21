@@ -1,34 +1,39 @@
 /* PHOTOS STUFF */
 
-#lightbox {
-    position: fixed;
-    top: 0;
-    left: 0;
- 	width: 100%;
-    height: 100%;
-    display: flex;
-	align-items: center;
-    justify-content: center;
-    pointer-events: none;
-    background-color: var(--lightbox-background-color);
-    opacity: 0;
-    transition: all 0.3s ease;
+.lightbox {
+  /* Default to hidden */
+  display: none;
 
+  /* Overlay entire screen */
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  /* A bit of padding around image */
+  padding: 1em;
+
+  /* Translucent background */
+  background: rgba(0, 0, 0, 0.8);
 }
 
-#lightbox.active {
-    opacity: 1;
-    height: 100%;
-    align-items: center;
-    justify-content: center;
-    pointer-events: all;
+/* Unhide the lightbox when it's the target */
+.lightbox:target {
+  display: block;
 }
 
-#lightbox-image {
-    max-width: 100%;
-    max-height: 100%;
-    transform: scale(0.9);
-    outline: 4px solid var(--white);
+.lightbox span {
+  /* Full width and height */
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  /* Size and position background image */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 

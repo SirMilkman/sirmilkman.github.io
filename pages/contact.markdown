@@ -24,7 +24,7 @@ I'm also currently open for work! <br>
 If you want me to program something for you, get in touch!<br>
 
 
-Email: <b>contactsirmilkman@gmail.com</b>
+Email: <b>hello@sirmilkman.com</b>
 Discord: <b>sirmilkman</b><br><br>
 
  <a href="https://bsky.app/profile/sirmilkman.bsky.social" class="nocol "><img class="icon " src="/assets/icons/Bsky.png" /></a>

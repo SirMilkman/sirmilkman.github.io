@@ -18,12 +18,11 @@ permalink: "/photos"
   Lots of nature and abandoned buildings<br>
 
 
-  
 <div class="gallery-grid">
 	{% assign image_files = site.static_files | where: "phot", 13 %}
 	{% for myimage in image_files %}
 	<div class="photo">
-	    <div class="img ">
+	    <div class="img">
 	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
