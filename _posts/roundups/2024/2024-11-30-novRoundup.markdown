@@ -3,7 +3,7 @@ layout: post
 short: "November 2024"
 title:  "November Roundup 2024"
 postdate:   "November 30, 2024"
-tags: "Roundup"
+tags: "Roundup2"
 permalink: "/NovemberRoundup2024"
 ---
 
@@ -38,7 +38,7 @@ Little platformer I made one evening for fun.<br>
 Maybe I'll finish it.
 <br><br><img class="blogImg" src="/assets/blog/Nov2024/gb1.gif" />
 <br><br><img class="blogImg" src="/assets/blog/Nov2024/gb2.gif" /><br><br>
-<br>
+<br> 
 
 **16x16 Game**<br>
 16x16 game in 16 minutes! <br> I nominate anyone who's reading this to also do this challenge. Its very fun

@@ -3,7 +3,7 @@ layout: post
 short: "September 2024"
 title:  "September Roundup 2024"
 postdate:   "October 6, 2024"
-tags: "Roundup"
+tags: "Roundup2"
 permalink: "/SeptemberRoundup2024"
 ---
 Oops is october 6th sorry im late. I started a pretty big project right when the month started. <br><br>

@@ -39,6 +39,7 @@ permalink: "/playlist"
 <br> <a href="https://www.youtube.com/playlist?list=PLAKmuGFhUrBUeNYV4fm9b9HaZKJ99qHUC"><b>August Playlist</b><a></a> 
 <br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBXu0egf6mYhOxjk9pJSXQ6x&si=wfIIasHd7E8RDDS7"><b>September Playlist</b><a></a>
 <br> <a href="https://www.youtube.com/playlist?list=PLAKmuGFhUrBX_mSxXuJiWUrCtAObRMm-i"><b>October Playlist</b><a></a>
+<br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBUDXaQ5jbYkyO3jLekS1e8Y&si=aJJhaGaJzO4KLx8t"><b>November Playlist</b><a></a>
 <br>
 <br>
       
@@ -68,6 +69,9 @@ Shellwood Forest (Act 2), Tournament Arc - Make Way For Me </b><a></a> (Soundclo
       <br> <a href="https://soundcloud.com/user-796063187/demo-impossible"><b>DEMO: Impossible</b><a></a> (Soundcloud)
       <br> <a href="https://www.tumblr.com/googieplague/764816598895935488/plague-knight-is-the-ruler-of-everything?source=share"><b>Plague Knight is the ruler of everything</b><a></a> (Tumblr)
       <br> <a href="https://soundcloud.com/kirbcicle/cloud-lacus-xf-extreme-formula-remix?si=c2484e96a9db4a2684654e409e482968&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><b>Cloud Lacus -XF Extreme Formula- (Remix)</b><a></a> (Soundcloud)
+      <br> <a href="https://soundcloud.com/mason-lieberman-1/2-shellwood-forest-act-2?in=mason-lieberman-1/sets/selections-from-the-ost-of-renaine"><b>
+Shellwood Forest (Act 2), Tournament Arc - Make Way For Me </b><a></a> (Soundcloud)
+      <br> <a href="https://radicaldreamland.bandcamp.com/track/game-set-match"><b>pluswav - Game, Set, Match!</b><a></a> (Bandcamp)
 
 
 <br><br> 
@@ -89,4 +93,11 @@ Shellwood Forest (Act 2), Tournament Arc - Make Way For Me </b><a></a> (Soundclo
   <br> <a href="https://www.youtube.com/watch?v=Jj74tRQuC9w"><b>Minecraft Pixel Remixes</b><a></a> (Too Long)
   <br> <a href="hhttps://www.youtube.com/watch?v=K1s5ZiugiZM&list=PLxQAFogMh4GW37VdcIqJua4O_qIk5gJwY&index=5"><b>Tales From The Disc - Lookfar (An Album Of Discworld)</b><a></a> (Too Long)
   <br> <a href="https://tbkgao.bandcamp.com/album/pure-midi-volume-2"><b>PURE MIDI Volume 2</b><a></a> (Too Long)
+  <br> <a href="https://www.youtube.com/watch?v=6uNkTqNSulY&t=129s"><b>David Wojciechowski - Olympics in Space [FULL ALBUM]</b><a></a> (Too Long)
+  <br> <a href="https://www.youtube.com/watch?app=desktop&v=AHrth9lOfzo&t=17s"><b>Pi Day 3/14 1:59AM - Spring Ahead</b><a></a> (Too Long)
+  <br> <a href="https://www.youtube.com/watch?v=EufwZ_DdDDw&t=954s"><b>Sonic SUNRISE 🌺🌴 (Chillwave, Downtempo, Synthwave)</b><a></a> (Too Long)
+  <br> <a href="https://www.youtube.com/watch?v=dPwneh-fr9A"><b>kid vampire 20: BABY CAGE BREAKOUT</b><a></a> (Not Entirely Music)
+
+
+
   <br> <br><br>

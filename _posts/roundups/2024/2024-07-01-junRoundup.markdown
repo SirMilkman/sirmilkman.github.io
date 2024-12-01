@@ -3,7 +3,7 @@ layout: post
 short: "June 2024"
 title:  "June Roundup 2024"
 postdate:   "July 1, 2024"
-tags: "Roundup"
+tags: "Roundup2"
 permalink: "/JuneRoundup2024"
 ---
 June is over and its roundup time!<br>

@@ -3,7 +3,7 @@ layout: post
 short: "August 2024"
 title:  "August Roundup 2024"
 postdate:   "August 31, 2024"
-tags: "Roundup"
+tags: "Roundup2"
 permalink: "/AugustRoundup2024"
 ---
 August is over! I released two games this month so ironically I didn't make as many prototypes as usual.
