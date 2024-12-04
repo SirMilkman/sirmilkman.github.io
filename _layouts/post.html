@@ -34,6 +34,26 @@
 	    display: inline-block;
 	    overflow: hidden;
 	}
+	.blogImgMed {
+	    width: 60%;
+	    height: auto;
+	    outline-style: solid;
+	    outline-color: var(--black);
+	    outline-width: 3px;
+	    border-radius: 1px;
+	    display: inline-block;
+	    overflow: hidden;
+	}
+	.blogImgSmall {
+	    width: 40%;
+	    height: auto;
+	    outline-style: solid;
+	    outline-color: var(--black);
+	    outline-width: 3px;
+	    border-radius: 1px;
+	    display: inline-block;
+	    overflow: hidden;
+	}
 	:root {
 	  	--green: #28c074;
 	  	--red: #ff4062;
@@ -49,16 +69,13 @@
     }
     h1{
 		font-family: "Josefin Sans", sans-serif;
-		font-size: 70px;
-		height: 90px;
-		width:  412px;
+		font-size: 20px;
 		margin-bottom: 10px;
-		text-align: center;
-		line-height: 160%;
+		font-weight: 1000;
 		vertical-align: middle;
 		margin-top: 10px;
-		color: var(--white);
-		background-color: var(--black);
+		color: var(--black);
+		
 	}
 table {
   table-layout: fixed;
@@ -280,6 +297,7 @@ td {
 		<h2> {{ page.postdate }}</h2> 
 		{{content}}	
 		<div><br><hr></div>
+		<br>
 		<a href="/index"> ◀ Back </a>
 		<br><br><br>
 	</div>
