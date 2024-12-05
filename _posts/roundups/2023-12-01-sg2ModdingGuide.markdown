@@ -6,9 +6,20 @@ postdate:   "December 3, 2024"
 tags: "Hidden"
 permalink: "/SG2Modding"
 ---
-
+<br>
 This is a guide on how to install level mods for [Samurai Gunn 2](https://store.steampowered.com/app/1397790/Samurai_GUNN_2/)
+<br> Written by [sirmilkman](https://www.sirmilkman.com/)
+<br> Proofread by [BoomBox5](https://sites.google.com/view/boomboxscorner/home)
 
+If you have any issues or questions contact me by email [*hello@sirmilkman.com*] or discord [*sirmilkman*]
+
+<br>
+Right now I've only made 1 level modpack. You can download it below:<br><br>
+<a class="button" href="../assets/blog/Other/SG2Modding/SG2 2021 Modpack.zip" download="SG2 2021 Modpack">Click To Download</a>
+
+<br>
+<hr>
+<br>
 
 
 # Installing the XDelta file:
@@ -24,7 +35,7 @@ I use version 3.0.1, but I don't think the version matters.
 Find your 'data.win' file.
 
 You can find this file easily by navigating to it on steam.
-Right click on Samruai Gunn 2 and navigate: **Manage > Browse Local Files**
+Right-click on Samruai Gunn 2 and navigate: **Manage > Browse Local Files**
 
 <img class="blogImgMed" src="../assets/blog/Other/SG2Modding/FilePath.png" /><br>
 
@@ -38,11 +49,11 @@ Open Delta Patcher and click the file icon for the 'Original File' category.
 Locate and select the 'data.win' file. 
 
 Click the file icon for the 'XDelta Patch' category.
-Select the XDelta containing the mod from your downloads folder.
+Select the XDelta File containing the mod from your downloads folder.
 
 Click Apply Patch
 
-**The collisions for the modded maps should now work**
+**The collisions for the modded maps should now work.**
 
 <br>
 <hr>
@@ -53,7 +64,7 @@ Click Apply Patch
 **Step 1:**
 Launch SG2 and on the title screen press F7.
 This should bring up their setdress editor. 
-Click the 'Save button in the upper left corner and close the game.
+Click the 'Save' button in the upper left corner and close the game.
 
 This should have created a 'Levels' folder in appdata. Locate that.
 It can be usually found at: **C:\Users\USER\AppData\Local\SamuraiGunn2\data\levels**
@@ -81,11 +92,13 @@ The thumbnails it generates are stored at: **C:\Users\USER\AppData\Local\Samurai
 <br>
 # Uninstalling A Mod
 
-Uninstalling is pretty simple. Just remove the '.sglvl' files from the 'Levels' folder and drag your backup data.win into where the game's local files.
+Uninstalling is pretty simple. Just remove the '.sglvl' files from the 'Levels' folder and drag your backup data.win into where the game's local files are stored.
 
-If you forgot to make or lost your backup, you can reset the game's files by rightclicking on Samruai Gunn 2 on steam and navigating **Properties... > Installed Files > Verify integrity of game files**
+If you forgot to make or lost your backup, you can reset the game's files by right-clicking on Samurai Gunn 2 on Steam and navigating:
+<br>**Properties... > Installed Files > Verify integrity of game files**
 
 <img class="blogImg" src="../assets/blog/Other/SG2Modding/ResetPath.png" /><br>
+<br>
 <br>
 <hr>
 

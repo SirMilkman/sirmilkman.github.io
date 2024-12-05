@@ -145,7 +145,8 @@ td {
 	 /* unvisited link */
 	a:link {
 		padding: 2px;
-		color: var(--green);
+		font-weight: bold;
+		color: var(--gray);
 	}
 
 	/* visited link */
@@ -273,12 +274,25 @@ td {
 		text-decoration: underline;
 		padding: 2px;
 		margin-bottom: 1000px;
+		font-weight: normal !important;
 	}
 .fakeLink:hover{
 			
 	  	color: var(--white);
 	  	padding: 2px;
 	  	margin-bottom: 1000px;
+	}
+
+	.button{
+		background-color: var(--black) !important;
+		color: var(--white) !important;
+
+		border-radius: 2px;
+		padding: 4px !important;
+	}
+	.button:hover{
+		background-color: var(--black) !important;
+		color: var(--green) !important;
 	}
 
 </style>
