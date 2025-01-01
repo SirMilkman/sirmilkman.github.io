@@ -15,48 +15,48 @@ Before we get into everything else, here's a mini roundup for December!<br>
 
 **Rougelike Style Experimentation**<br>
 Some style experiments with nuclear throne-like generation. I particularly like the last one.
-<br><img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/rougelike1.gif" alt=""/>
-<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/rougelike2.gif" alt=""/>
-<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/rougelike3.png" alt=""/>
-<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/rougelike4.png" alt=""/><br><br>
+<br><img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/rougelike1.gif" alt=""/>
+<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/rougelike2.gif" alt=""/>
+<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/rougelike3.png" alt=""/>
+<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/rougelike4.png" alt=""/><br><br>
 <br>
 
 **Level Editor**<br>
 An all purpose level editor I can port over to future projects when needed.
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/dec2024/editor.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Dec2024/editor.gif" alt=""/>
 <br><br>
 <br>
 
 **Mario World Hacking**<br>
 I spent a few days making some Mario World levels with a friend. I really like sheer level design and not having to code mechanics. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/dec2024/marioWorld.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Dec2024/marioWorld.gif" alt=""/>
 <br><br>
 <br>
 
 **Baking**<br>
 Our kitchen is finally back together after a 2 year long renovation which means I can bake again! <br> Here are some Christmas cookies I made.
-<br><img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/cookies1.png" alt=""/>
-<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/cookies4.jpg" alt=""/>
-<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/cookies3.jpg" alt=""/>
-<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/dec2024/cookies2.png" alt=""/><br><br>
+<br><img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/cookies1.png" alt=""/>
+<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/cookies4.jpg" alt=""/>
+<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/cookies3.jpg" alt=""/>
+<img id="" class="blogImgSmall myImg" src="/assets/blog/2024/Dec2024/cookies2.png" alt=""/><br><br>
 <br>
 
 
 **Multiplayer Prototype**<br>
 I spent a day doing a jam with a friend where we both made a framework for multiplayer games. My output was this duck game-ish versus game. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/dec2024/duckGame.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Dec2024/duckGame.gif" alt=""/>
 <br><br>
 <br>
 
 **Evil Christmas Evil Elf**<br>
 Made in 20 minutes. Dont really have anything to say about it.
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/dec2024/evilElf.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Dec2024/evilElf.gif" alt=""/>
 <br><br>
 <br>
 
 **TIMEZONE 9900**<br>
 A lightning fast speedrun game I made as a gift for a friend. I say a little more about it later in this post. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/dec2024/timezone.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Dec2024/timezone.gif" alt=""/>
 <br><br>
 
 <div><br><hr><br></div>
@@ -71,7 +71,7 @@ Because of that, I'm not going to post every single one again here. Instad I'll 
 
 **Terminal Project** <br>
 I'm really happy with how polished this turned out. It ended up going nowhere because I didn't have much of an idea of what I wanted to do with it, but I'm happy with it regardless.
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/jan2024/terminal.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Jan2024/terminal.gif" alt=""/>
 <br><br>
 
 **Gunibalt** <br>
@@ -91,12 +91,12 @@ This was the start of me being confident in my pixel art skills. I'm pretty prou
 
 **Katana Zero Prototype** <br>
 I love making juicy attacks! This is my personal favorite of those attempts this year. The slash animation is also pretty good if I do say so myself.
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/nov2024/zero.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Nov2024/zero.gif" alt=""/>
 <br><br>
 
 **GB Platformer** <br>
 This is the project that a bunch of the Mooncat mechanics are returning in. I've been working on this off and on for a few months. Its nice to come back to something comforable when I'm feeling burnt out. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/nov2024/gb2.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Nov2024/gb2.gif" alt=""/>
 <br><br>
 
 <div><br><hr><br><br></div>
@@ -109,12 +109,12 @@ My goal this year was to release a minimum of 12 games (1 every month) and I suc
 
 **Dreadwood Hunter** <br>
 This was made in a day at the very end of January. I'm really proud of the atmosphere I was able to get out of so few pixels. Skooka helped a lot with that through the amazing sound effects.
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/jan2024/dreadwood.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Jan2024/dreadwood.gif" alt=""/>
 <br><br>
 
 **Door Kicker Deluxe** <br>
 Made for the Brackeys game jam. I spent half the jam making an idea I ended up not going with. I spent way to long on making the gameplay here so its visually super bad. Looking back, if I had to re-do the artstyle I would've leaned into the unfinished feeling more and made an artstyle out of it. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/feb2024/doorkicker.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Feb2024/doorkicker.gif" alt=""/>
 <br><br>
 
 **Rapidoodle** <br>
@@ -128,38 +128,38 @@ Sarn got me to do the bullet hell jam when there were only 2 days remaining in t
 <br><br>
 
 **│ ■ │** <br>
-Really proud of this one. Sarn had the idea really late at night and we decided to do the jam together right then. The gamplay is super clean and sarn did a great job with the music and SFX. We were both on vacation for the last half of the jam so the latter half of the game's balancing isn't the best because we didn't really have time to test it. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/jun2024/lines.gif" alt=""/>
+Really proud of this one. Sarn had the idea really late at night and we Decided to do the jam together right then. The gamplay is super clean and sarn did a great job with the music and SFX. We were both on vacation for the last half of the jam so the latter half of the game's balancing isn't the best because we didn't really have time to test it. 
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Jun2024/lines.gif" alt=""/>
 <br><br>
 
 **Make 10 Plus** <br>
 Another hour jam game that I expanded into a full release with another hour. I think the only thing I would change is adding an indicator that you can clear boxes. That wasn't intended, but its really useful when going for high scores. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/jul2024/make10.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Jul2024/make10.gif" alt=""/>
 <br><br>
 
 **Maintenance Break** <br>
 Made with 2 other friends over an extended weekend. I think it turned out okay, but I think it falls short because the development was largely unfocused for the first 2 days. We had a lot of vague ideas of what we wanted, but when it came to actually designing it was hard to figure out what to do.
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/jul2024/maintenanceBreak.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Jul2024/maintenanceBreak.gif" alt=""/>
 <br><br>
 
 **Renegade Rally** <br>
 This is by far the game I'm most proud of. It preformed really well in the jam and its super fun on its own. Its also my largest game by a longshot. I'm super proud of how many different enemies I made for it and the variety between all of the levels. I could go on about everything I like about it, but I'll spare you the paragraphs of text I would type. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/aug2024/RenegadeRally.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Aug2024/RenegadeRally.gif" alt=""/>
 <br><br>
 
 **Gatotag** <br>
 Made this with Team Bugulon! It was a really great experience working with such a huge team and I'm really glad I got to do it. Everyone there is so talented! I felt out of my element haha
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/aug2024/Gatotag.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Aug2024/Gatotag.gif" alt=""/>
 <br><br>
 
 **Drillship TURBO** <br>
 Made over a weekend in a creative frenzy. I think making you shoot bullets at yourself isn't clear enough and the game doesn't really need it. Other than that I LOVE this game. Very happy with the particle effects. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/sep2024/drillship.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Sep2024/drillship.gif" alt=""/>
 <br><br>
 
 **Critter Switcher** <br>
 Tbh I barely did anything in this! (Sorry torcado) I bit off way more than I could chew, but didn't want to leave my team hanging by suddenly leaving the jam. I think the game we made was still pretty fun though! 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/oct2024/critter.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Oct2024/critter.gif" alt=""/>
 <br><br>
 
 **Two-Week Megamix** <br>
@@ -172,7 +172,7 @@ Tbh I barely did anything in this! (Sorry torcado) I bit off way more than I cou
 
 **Mouse Snake** <br>
 Every halloween I do a personal game jam after handing out candy. This year I made an idea I have had in my head for a while. I think it turned out a little to challenging. Definitely want to steal the idea of metascore for a future project. I think its a fun way to unlock stuff. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/oct2024/mouseSnake.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Oct2024/mouseSnake.gif" alt=""/>
 <br><br>
 
 **Mini GUNN** <br>
@@ -185,12 +185,12 @@ My big project! I'm very very proud of what we were able to fit into Pico 8. Als
 
 **Evil Christmas Evil Elf** <br>
 I joined a voice call and 3 people said "WERE DOING A GAME JAM WANNA JOIN" and I said "YES" and I made this in 20 minutes. I'm still glad that I'm able to make *something* with any amount of speed. Its not super fun tho :P
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/dec2024/evilElf.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Dec2024/evilElf.gif" alt=""/>
 <br><br>
 
 **Timezone 9900** <br>
 Made in a few days for my friend BoomBox5. I want to expand on the movement in this someday, but right now I feel pretty done with the project. It was very exciting to see people beat my dev time. The best score I've seen is 25.80 seconds which is kinda insane. I wish it had 2 more levels. 
-<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/dec2024/timezone.gif" alt=""/>
+<br><br><img id="" class="blogImg myImg" src="/assets/blog/2024/Dec2024/timezone.gif" alt=""/>
 <br><br>
 
 <div><br><hr><br><br></div>
