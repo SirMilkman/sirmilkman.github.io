@@ -26,7 +26,7 @@ Mostly ink on paper!
   
 <div class="photo">
     <div class="img ">
-      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+      <img class="imgREAL myImg" src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
     </div>
 	<div class="imgText imgOneline">
 	  {{myimage.basename}}<br />

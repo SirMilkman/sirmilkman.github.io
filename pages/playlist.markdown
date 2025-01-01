@@ -40,6 +40,7 @@ permalink: "/playlist"
 <br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBXu0egf6mYhOxjk9pJSXQ6x&si=wfIIasHd7E8RDDS7"><b>September Playlist</b><a></a>
 <br> <a href="https://www.youtube.com/playlist?list=PLAKmuGFhUrBX_mSxXuJiWUrCtAObRMm-i"><b>October Playlist</b><a></a>
 <br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBUDXaQ5jbYkyO3jLekS1e8Y&si=aJJhaGaJzO4KLx8t"><b>November Playlist</b><a></a>
+<br> <a href="https://www.youtube.com/playlist?list=PLAKmuGFhUrBWZDkxs7-UGb4CjNOK19RPH"><b>December Playlist</b><a></a>
 <br>
 <br>
       
@@ -72,6 +73,8 @@ Shellwood Forest (Act 2), Tournament Arc - Make Way For Me </b><a></a> (Soundclo
       <br> <a href="https://soundcloud.com/mason-lieberman-1/2-shellwood-forest-act-2?in=mason-lieberman-1/sets/selections-from-the-ost-of-renaine"><b>
 Shellwood Forest (Act 2), Tournament Arc - Make Way For Me </b><a></a> (Soundcloud)
       <br> <a href="https://radicaldreamland.bandcamp.com/track/game-set-match"><b>pluswav - Game, Set, Match!</b><a></a> (Bandcamp)
+      <br> <a href="https://x.com/stivisromhacks2/status/1864340774093042150"><b>groovy ass forest theme</b><a></a> (Twitter)
+      <br> <a href="https://soundcloud.com/michaelokon/ghost-party-at-the-cathedral"><b>ghost party at the cathedral</b><a></a> (Soundcloud)
 
 
 <br><br> 
@@ -96,7 +99,10 @@ Shellwood Forest (Act 2), Tournament Arc - Make Way For Me </b><a></a> (Soundclo
   <br> <a href="https://www.youtube.com/watch?v=6uNkTqNSulY&t=129s"><b>David Wojciechowski - Olympics in Space [FULL ALBUM]</b><a></a> (Too Long)
   <br> <a href="https://www.youtube.com/watch?app=desktop&v=AHrth9lOfzo&t=17s"><b>Pi Day 3/14 1:59AM - Spring Ahead</b><a></a> (Too Long)
   <br> <a href="https://www.youtube.com/watch?v=EufwZ_DdDDw&t=954s"><b>Sonic SUNRISE 🌺🌴 (Chillwave, Downtempo, Synthwave)</b><a></a> (Too Long)
-  <br> <a href="https://www.youtube.com/watch?v=dPwneh-fr9A"><b>kid vampire 20: BABY CAGE BREAKOUT</b><a></a> (Not Entirely Music)
+  <br> <a href="https://www.youtube.com/watch?v=LEM6fgNu5zA&list=TLPQMTcxMjIwMjTUxpWG5W8zcA"><b>kid vampire 20: BABY CAGE BREAKOUT</b><a></a> (Not Entirely Music)
+  <br> <a href="https://www.youtube.com/watch?v=dPwneh-fr9A"><b>SONIC & KNUCKLES FULL OST BUSKING 2024</b><a></a> (Too Long)
+  <br> <a href="https://www.youtube.com/watch?v=pbTO0w-fWKE&t=1344s"><b>Hyperdrive Boogie</b><a></a> (Too Long)
+  <br> <a href="https://matthewseiji.bandcamp.com/album/seagame"><b>SEAGAME </b><a></a> (Full Album)
 
 
 

@@ -27,9 +27,14 @@ If you want me to program something for you, get in touch!<br>
 Email: <b>hello@sirmilkman.com</b>
 Discord: <b>sirmilkman</b><br><br>
 
+criar.ing webring: <webring-css class="fakeLink"></webring-css>
+
  <a href="https://bsky.app/profile/sirmilkman.bsky.social" class="nocol "><img class="icon " src="/assets/icons/Bsky.png" /></a>
  <a href="https://sirmilkman.tumblr.com/" class="nocol "><img class="icon " src="/assets/icons/tumblr.png" /></a>
  <a href="https://x.com/sirmilkman_" class="nocol "><img class="icon " src="/assets/icons/twitter.png" /></a>
  <a href="https://www.youtube.com/@sirmilkman" class="nocol "><img class="icon " src="/assets/icons/youtube.png" /></a>
  <a href="https://github.com/SirMilkman" class="nocol "><img class="icon " src="/assets/icons/github.png" /></a>
+
+
+<script src="https://criar.ing/criaring.js"></script>
 

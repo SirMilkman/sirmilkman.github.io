@@ -1,18 +1,25 @@
+// Get the modal, modal image, and caption
+var modal = document.getElementById("myModal");
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
 
-const lightbox = document.getElementById("lightbox")
-const lightboxImg = document.getElementById("lightbox-image")
-const lbText = document.getElementById("imgText")
+// Get all images with a specific class
+var images = document.querySelectorAll(".myImg");
 
-const images = document.querySelectorAll('imgREAL')
-images.forEach(image => {
-    image.style.width=500px;
-    image.addEventListener('click', e => {
-        lightbox.classList.add('active')
-        lightboxImg.src = image.src
-    })
-})
+// Add a click event listener to each image
+images.forEach(function(img) {
+  img.addEventListener("click", function() {
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+  });
+});
 
-lightbox.addEventListener('click', e => {
-    
-    lightbox.classList.remove('active')
-})
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// Close the modal when the user clicks on <span> (x)
+span.onclick = function() {
+  modal.style.display = "none";
+};
+

@@ -23,7 +23,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg" src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -37,7 +37,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg" src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -51,7 +51,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -65,7 +65,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -79,7 +79,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -93,7 +93,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -107,7 +107,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -121,7 +121,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -135,7 +135,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -149,7 +149,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -163,7 +163,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -177,7 +177,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
@@ -191,7 +191,7 @@ permalink: "/photos"
 	{% for myimage in image_files %}
 	<div class="photo">
 	    <div class="img ">
-	      <img class="imgREAL " src="{{ myimage.path }}" alt="{{myimage.name}}"/>
+	      <img class="imgREAL myImg " src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
 	    </div>
 		<div class="imgText imgTwoline">
 		  {{myimage.basename}}<br/>
