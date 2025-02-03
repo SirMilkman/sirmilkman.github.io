@@ -3,13 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: playlist
 layout: home
-permalink: "/playlist"
+permalink: "/playlist2024"
 ---
 
 
 
 
-### *PLAYLIST PAGE*
+### *PLAYLIST PAGE 2024*
 
 
 
