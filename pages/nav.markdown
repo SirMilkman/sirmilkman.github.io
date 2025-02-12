@@ -27,7 +27,6 @@ A small guide to the various pages of this website.
 
 
 | # Roundups | Monthly digests of what I've made.         |
-| # Happenings  | The best way to keep track of what I'm doing! It also has an RSS feed.s |
 
 
 <div><br><b>Works:</b><br></div>
@@ -43,6 +42,6 @@ A small guide to the various pages of this website.
 
 | # Web Toys | Small web toy's or experiments I've made. Not very many right now. |
 | # Game Reviews List  | Reviews of games by year. I try to review everything I play.  |
-
+| # SG2 Modding  | Information about modding for the game Samurai Gunn 2. Also hosts some of my mods. |
 
 <div><br><hr><br></div>

@@ -12,11 +12,21 @@ This is a guide on how to install level mods for [Samurai Gunn 2](https://store.
 <br> Proofread by [BoomBox5](https://sites.google.com/view/boomboxscorner/home)
 
 If you have any issues or questions contact me by email [*hello@sirmilkman.com*] or discord [*sirmilkman*]
+<br><br>
+<hr><br>
+# My mods: <br>
 
-<br>
-Right now I've only made 1 level modpack. You can download it below:<br><br>
+**SG2 2021 Levelpack**
+<br>A collection of levels made by me and waporwave throughout 2021 while we were learning how to mod.<br>
+
 <a class="button" href="../assets/blog/Other/SG2Modding/SG2 2021 Modpack.zip" download="SG2 2021 Modpack">Click To Download</a>
+<br><br>
 
+**SG2 Training Stages**
+<br>Seven different training stages with simple geometry to help practice movement. Made for Sonoran Sage. <br>
+
+<a class="button" href="../assets/blog/Other/SG2Modding/SG2 Training Stages.zip" download="SG2 Training Stages">Click To Download</a>
+<br><br><br>
 <br>
 <hr>
 <br>
