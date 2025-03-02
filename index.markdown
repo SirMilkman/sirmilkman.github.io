@@ -18,7 +18,7 @@ permalink: "/index"
 </div>
 
 <div class = "latest" >
-	Latest Game: <br>
+	Play This One: <br>
 	<a href="https://store.steampowered.com/app/3035660/Mini_GUNN/">Minigunn</a>
 </div>
 
