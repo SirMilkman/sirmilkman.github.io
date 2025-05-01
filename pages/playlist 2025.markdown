@@ -21,6 +21,7 @@ permalink: "/playlist2025"
 <br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBV8dmC2ZQjBjxqHcCwUzeeu&si=UgXOC8e3m85oRMA5"><b>January Playlist</b><a></a> 
 <br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBXlK1ZxnrxP750Htf3HkH1D&si=6xRnKjdIiOqH15kA"><b>February Playlist</b><a></a> 
 <br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBUi7dZN1Vv8T2Ltz3fIJ2ju&si=tenv71uMFvhwtPw-"><b>March Playlist</b><a></a> 
+<br> <a href="https://youtube.com/playlist?list=PLAKmuGFhUrBWVgjl5zalqxzJJapZpLxSC&si=gcDuAQFjy8KlXKnB"><b>April Playlist</b><a></a> 
 <br>
 <br>
 
@@ -51,4 +52,9 @@ permalink: "/playlist2025"
 <br> <a href="https://music.youtube.com/watch?v=HOhCkNXyvEU&list=OLAK5uy_nkKQe6sOyomHQVB6fJYT3-5b_RV7--lL4"><b>Star Song</b><a></a> (Apple Music Exclusive)
 <br> <a href="https://www.youtube.com/watch?v=cTe9vUPwg0g"><b>A Keyboard For Babies</b><a></a> (Youtube Kids. Cannot Be Added To A Playlist)
 <br> <a href="https://www.youtube.com/watch?v=_T2PH4SZl_0&list=TLPQMjUwMzIwMjX-_jxXnKKtXw&t=51s"><b>Contact Mic Your Life</b><a></a> (Majority Not Music)
+  <br> <br><br>
+
+**April**
+<br> <a href="https://oroshibu.bandcamp.com/track/devilish-vip-world-2"><b>Devilish VIP (World 2) </b><a></a> (Bandcamp Exclusive)
+<br> <a href="https://letsmakeamusic.bandcamp.com/track/wake-up-for-big-veg"><b>Wake Up for Big Veg </b><a></a> (Bandcamp Exclusive)
   <br> <br><br>
