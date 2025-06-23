@@ -101,7 +101,27 @@ defaults:
       path: "assets/images/photos/13"
     values:
       phot: 13
-      postD: October 27, 2024
+      postD: November 27, 2024
+  - scope:
+      path: "assets/images/photos/14"
+    values:
+      phot: 14
+      postD: January 27, 2025
+  - scope:
+      path: "assets/images/photos/15"
+    values:
+      phot: 15
+      postD: March 8, 2025 
+  - scope:
+      path: "assets/images/photos/16"
+    values:
+      phot: 16
+      postD: May 19, 2025 
+  - scope:
+      path: "assets/images/photos/17"
+    values:
+      phot: 17
+      postD: June 2, 2025 
   - scope:
       path: "assets/images/art"
     values:

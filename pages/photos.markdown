@@ -17,7 +17,62 @@ permalink: "/photos"
   Taking photos as I adventure<br>
   Lots of nature and abandoned buildings<br>
 
-
+<div class="gallery-grid">
+	{% assign image_files = site.static_files | where: "phot", 17 %}
+	{% for myimage in image_files %}
+	<div class="photo">
+	    <div class="img">
+	      <img class="imgREAL myImg" src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
+	    </div>
+		<div class="imgText imgTwoline">
+		  {{myimage.basename}}<br/>
+		  {{myimage.postD}}
+		</div>
+	</div>
+	{% endfor %}
+</div>  
+<div class="gallery-grid">
+	{% assign image_files = site.static_files | where: "phot", 16 %}
+	{% for myimage in image_files %}
+	<div class="photo">
+	    <div class="img">
+	      <img class="imgREAL myImg" src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
+	    </div>
+		<div class="imgText imgTwoline">
+		  {{myimage.basename}}<br/>
+		  {{myimage.postD}}
+		</div>
+	</div>
+	{% endfor %}
+</div>  
+<div class="gallery-grid">
+	{% assign image_files = site.static_files | where: "phot", 15 %}
+	{% for myimage in image_files %}
+	<div class="photo">
+	    <div class="img">
+	      <img class="imgREAL myImg" src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
+	    </div>
+		<div class="imgText imgTwoline">
+		  {{myimage.basename}}<br/>
+		  {{myimage.postD}}
+		</div>
+	</div>
+	{% endfor %}
+</div>  
+<div class="gallery-grid">
+	{% assign image_files = site.static_files | where: "phot", 14 %}
+	{% for myimage in image_files %}
+	<div class="photo">
+	    <div class="img">
+	      <img class="imgREAL myImg" src="{{ myimage.path }}" alt="{{myimage.basename}}"/>
+	    </div>
+		<div class="imgText imgTwoline">
+		  {{myimage.basename}}<br/>
+		  {{myimage.postD}}
+		</div>
+	</div>
+	{% endfor %}
+</div>  
 <div class="gallery-grid">
 	{% assign image_files = site.static_files | where: "phot", 13 %}
 	{% for myimage in image_files %}
