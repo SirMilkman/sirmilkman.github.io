@@ -70,7 +70,7 @@ a{
     border-left: 1px solid rgba(0,0,0,0) !important;
     grid-column: 1 !important;
     width: 100% !important;
-    grid-row: 2; /* pushes it below the main content */
+    grid-row: 2; 
     
   }
 
@@ -96,7 +96,7 @@ a{
 
   margin: auto;
 width: 1200px;
-  max-width: 1600px;      /* or whatever your design target is */
+  max-width: 1600px;      
   margin: 0 auto;
 
 
@@ -117,7 +117,7 @@ width: 1200px;
 
   margin: auto;
 width: 1200px;
-  max-width: 1600px;        /* or whatever your design target is */
+  max-width: 1600px;       
   margin: 0 auto;
 
 
@@ -170,7 +170,7 @@ width: 1200px;
   width: 100%;
   padding-top: 4px;
   padding-bottom: 4px;
-  align-self: start; /* prevents vertical stretching */
+  align-self: start;
 }
 
 .lineItem{
@@ -183,7 +183,7 @@ width: 1200px;
   width: 100%;
   padding-top: 15px;
   padding-bottom: 15px;
-  align-self: start; /* prevents vertical stretching */
+  align-self: start; 
 }
 .lineItem:hover {
   
@@ -205,7 +205,7 @@ background-color: var(--hv-color);
   
   text-decoration: none;
   font-size: 20px;
-  list-style: none;          /* removes default marker */
+  list-style: none;          
   cursor: pointer;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -221,8 +221,7 @@ background-color: var(--hv-color);
   color: black;
   text-decoration: none;
   font-size: 10px;
-  display: block;            /* makes padding fully clickable */
-
+  display: block;            
 }
 
 
@@ -276,19 +275,19 @@ img.pixelated {
   margin-bottom: -12px;
   width: 34px;
   height: auto;
-  display: block;      /* Change from inline to block element */
-  margin-left: auto;   /* Distributes remaining space equally */
+  display: block;      
+  margin-left: auto;   
   margin-right: auto;
-  image-rendering: pixelated; /* Standard property */
-  image-rendering: -moz-crisp-edges; /* Firefox prefix */
-  image-rendering: crisp-edges; /* Older property value */
+  image-rendering: pixelated; 
+  image-rendering: -moz-crisp-edges; 
+  image-rendering: crisp-edges; 
 }
 
 img.crisp {
 
-  image-rendering: pixelated; /* Standard property */
-  image-rendering: -moz-crisp-edges; /* Firefox prefix */
-  image-rendering: crisp-edges; /* Older property value */
+  image-rendering: pixelated; 
+  image-rendering: -moz-crisp-edges; 
+  image-rendering: crisp-edges;
 }
 
 .outlinkContainer{
@@ -453,8 +452,8 @@ li::marker {
   padding-top: 12px;
   padding-left: 10px;
   padding-bottom: 12px;
-  white-space: nowrap;      /* Prevents the text from wrapping to a new line */
-  overflow: hidden;         /* Hides any content that overflows the container */
+  white-space: nowrap;      
+  overflow: hidden;         
   text-overflow: ellipsis; 
 }
 
