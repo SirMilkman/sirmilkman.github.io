@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 09 Feb 2026 19:23:53 -0800</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 19:23:53 -0800</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>2024 Year-In-Review</title>
+        <description>&lt;p&gt;&lt;br /&gt;Year is over! I made a good amount of stuff! Heres some stats:&lt;br /&gt;
+16 games released - 49 prototypes/unreleased projects&lt;!--more--&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Before we get into everything else, here’s a mini roundup for December!&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rougelike Style Experimentation&lt;/strong&gt;&lt;br /&gt;
+Some style experiments with nuclear throne-like generation. I particularly like the last one.
+&lt;br /&gt;&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/rougelike1.gif&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/rougelike2.gif&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/rougelike3.png&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/rougelike4.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level Editor&lt;/strong&gt;&lt;br /&gt;
+An all purpose level editor I can port over to future projects when needed.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Dec2024/editor.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mario World Hacking&lt;/strong&gt;&lt;br /&gt;
+I spent a few days making some Mario World levels with a friend. I really like sheer level design and not having to code mechanics. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Dec2024/marioWorld.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Baking&lt;/strong&gt;&lt;br /&gt;
+Our kitchen is finally back together after a 2 year long renovation which means I can bake again! &lt;br /&gt; Here are some Christmas cookies I made.
+&lt;br /&gt;&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/cookies1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/cookies4.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/cookies3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Dec2024/cookies2.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Multiplayer Prototype&lt;/strong&gt;&lt;br /&gt;
+I spent a day doing a jam with a friend where we both made a framework for multiplayer games. My output was this duck game-ish versus game. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Dec2024/duckGame.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evil Christmas Evil Elf&lt;/strong&gt;&lt;br /&gt;
+Made in 20 minutes. Dont really have anything to say about it.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Dec2024/evilElf.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TIMEZONE 9900&lt;/strong&gt;&lt;br /&gt;
+A lightning fast speedrun game I made as a gift for a friend. I say a little more about it later in this post. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Dec2024/timezone.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;br /&gt;&lt;hr /&gt;&lt;br /&gt;&lt;/div&gt;
+
+&lt;p&gt;Ok thats enough of that. Lets get onto the whole year!&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prototypes&quot;&gt;Prototypes&lt;/h3&gt;
+
+&lt;p&gt;This was my first full year of making public roundups! Which means that most of my prototypes are easy to find on this very website!&lt;br /&gt;
+Because of that, I’m not going to post every single one again here. Instad I’ll choose some of my favorites to share here.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terminal Project&lt;/strong&gt; &lt;br /&gt;
+I’m really happy with how polished this turned out. It ended up going nowhere because I didn’t have much of an idea of what I wanted to do with it, but I’m happy with it regardless.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jan2024/terminal.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gunibalt&lt;/strong&gt; &lt;br /&gt;
+This one is kinda silly, but I like how breaking glass feels in it! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Feb2024/gunibalt.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mooncat&lt;/strong&gt; &lt;br /&gt;
+I’m really happy with the mechanics I made for this. A lot of them are returning in a new project in a similar genre because of that! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/mooncat.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mech Jam Game&lt;/strong&gt; &lt;br /&gt;
+This was the start of me being confident in my pixel art skills. I’m pretty proud of the mech run cycle and all of the juice. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/mechJam.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katana Zero Prototype&lt;/strong&gt; &lt;br /&gt;
+I love making juicy attacks! This is my personal favorite of those attempts this year. The slash animation is also pretty good if I do say so myself.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/zero.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GB Platformer&lt;/strong&gt; &lt;br /&gt;
+This is the project that a bunch of the Mooncat mechanics are returning in. I’ve been working on this off and on for a few months. Its nice to come back to something comforable when I’m feeling burnt out. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/gb2.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;br /&gt;&lt;hr /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;released-games&quot;&gt;Released games&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My goal this year was to release a minimum of 12 games (1 every month) and I succeeded! About halfway through the year, I pseudo gave up on this goal because it was putting a lot of pressure on making stuff, but ironically taking the pressure off made the goal easier to achieve. 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dreadwood Hunter&lt;/strong&gt; &lt;br /&gt;
+This was made in a day at the very end of January. I’m really proud of the atmosphere I was able to get out of so few pixels. Skooka helped a lot with that through the amazing sound effects.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jan2024/dreadwood.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Door Kicker Deluxe&lt;/strong&gt; &lt;br /&gt;
+Made for the Brackeys game jam. I spent half the jam making an idea I ended up not going with. I spent way to long on making the gameplay here so its visually super bad. Looking back, if I had to re-do the artstyle I would’ve leaned into the unfinished feeling more and made an artstyle out of it. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Feb2024/doorkicker.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rapidoodle&lt;/strong&gt; &lt;br /&gt;
+Made in an hour for a game jam with some friends. Not much to say about it other than that I think its just okay.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/May2024/rapidoodle.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT IS GOING ON!&lt;/strong&gt; &lt;br /&gt;
+Sarn got me to do the bullet hell jam when there were only 2 days remaining in the bullet hell jam and I made this. I think its fun, but I made the abilities hurt you way too much. There’s basically no reason to use any of them aside from heal. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/May2024/gay.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;│ ■ │&lt;/strong&gt; &lt;br /&gt;
+Really proud of this one. Sarn had the idea really late at night and we Decided to do the jam together right then. The gamplay is super clean and sarn did a great job with the music and SFX. We were both on vacation for the last half of the jam so the latter half of the game’s balancing isn’t the best because we didn’t really have time to test it. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/lines.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make 10 Plus&lt;/strong&gt; &lt;br /&gt;
+Another hour jam game that I expanded into a full release with another hour. I think the only thing I would change is adding an indicator that you can clear boxes. That wasn’t intended, but its really useful when going for high scores. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/make10.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maintenance Break&lt;/strong&gt; &lt;br /&gt;
+Made with 2 other friends over an extended weekend. I think it turned out okay, but I think it falls short because the development was largely unfocused for the first 2 days. We had a lot of vague ideas of what we wanted, but when it came to actually designing it was hard to figure out what to do.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/maintenanceBreak.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Renegade Rally&lt;/strong&gt; &lt;br /&gt;
+This is by far the game I’m most proud of. It preformed really well in the jam and its super fun on its own. Its also my largest game by a longshot. I’m super proud of how many different enemies I made for it and the variety between all of the levels. I could go on about everything I like about it, but I’ll spare you the paragraphs of text I would type. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/RenegadeRally.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gatotag&lt;/strong&gt; &lt;br /&gt;
+Made this with Team Bugulon! It was a really great experience working with such a huge team and I’m really glad I got to do it. Everyone there is so talented! I felt out of my element haha
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/Gatotag.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drillship TURBO&lt;/strong&gt; &lt;br /&gt;
+Made over a weekend in a creative frenzy. I think making you shoot bullets at yourself isn’t clear enough and the game doesn’t really need it. Other than that I LOVE this game. Very happy with the particle effects. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Sep2024/drillship.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Critter Switcher&lt;/strong&gt; &lt;br /&gt;
+Tbh I barely did anything in this! (Sorry torcado) I bit off way more than I could chew, but didn’t want to leave my team hanging by suddenly leaving the jam. I think the game we made was still pretty fun though! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Oct2024/critter.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Two-Week Megamix&lt;/strong&gt; &lt;br /&gt;
+14 games made in 14 days. I definitely want to do this again in 2025 if I have the time. I learned a lot about how I make things and the points where I need to improve doing this. Very fun! My favorite game is the mountain platformer - I like the art in it! 
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm1.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm2.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm4.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm3.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mouse Snake&lt;/strong&gt; &lt;br /&gt;
+Every halloween I do a personal game jam after handing out candy. This year I made an idea I have had in my head for a while. I think it turned out a little to challenging. Definitely want to steal the idea of metascore for a future project. I think its a fun way to unlock stuff. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mouseSnake.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mini GUNN&lt;/strong&gt; &lt;br /&gt;
+My big project! I’m very very proud of what we were able to fit into Pico 8. Also this was my first steam release! Woohoo! I have a very long blog post about this in the works releasing &lt;em&gt;sometime in the future&lt;/em&gt; so to be honest I have very little left to say here.
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn1.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn2.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn3.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn4.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evil Christmas Evil Elf&lt;/strong&gt; &lt;br /&gt;
+I joined a voice call and 3 people said “WERE DOING A GAME JAM WANNA JOIN” and I said “YES” and I made this in 20 minutes. I’m still glad that I’m able to make &lt;em&gt;something&lt;/em&gt; with any amount of speed. Its not super fun tho :P
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Dec2024/evilElf.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Timezone 9900&lt;/strong&gt; &lt;br /&gt;
+Made in a few days for my friend BoomBox5. I want to expand on the movement in this someday, but right now I feel pretty done with the project. It was very exciting to see people beat my dev time. The best score I’ve seen is 25.80 seconds which is kinda insane. I wish it had 2 more levels. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Dec2024/timezone.gif&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;br /&gt;&lt;hr /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;other-stuff&quot;&gt;Other Stuff&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; &lt;br /&gt;
+I spent a lot of the year trying to improve my pixel art skills. Here are some of my best pieces. They’re mostly mockups for various games. You can see all of them &lt;a href=&quot;https://www.sirmilkman.com/pixelart&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt; &lt;br /&gt;
+I got into making music. I’m still bad and it’s taken a bit to be okay with that, but I’m starting to become content in that. Listened to my released stuff &lt;a href=&quot;https://soundcloud.com/808093&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;br /&gt;&lt;br /&gt;&lt;hr /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;games-i-played&quot;&gt;Games I Played&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I played a few games in 2024! I made a &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1pL8QTekcJ5uoCdK2nCPBF2KnovAjT4SlDzi179wSKEM/edit?gid=0#gid=0&quot;&gt;whole list&lt;/a&gt; reviewing all of the games I played, but heres a bit more depth into my top 5. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;#5 World Of Goo 2&lt;/strong&gt; &lt;br /&gt;
+World Of Goo 2 feels like a sequel that would’ve been made for the original right after it came out. It still has all the creativity, charm and fun of the original, but expands on it all amazingly. New gooball types fit right in with the old ones and the atmosphere is better than ever.&lt;/p&gt;
+
+&lt;p&gt;It has a great balance of more puzzle-y levels and pure building focused levels just like the first game. 
+When its at its best, the game throws what seems like an impossible gap or hill to climb and gives you an amazing feeling of accomplishment as you figure out how to make your structure reach the other side.&lt;/p&gt;
+
+&lt;p&gt;Also the soundtrack is amazing. My favorite track is ‘There’s Something About This Island’&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;#4 Tactical Breach Wizards&lt;/strong&gt; &lt;br /&gt;
+Tom Francis has been making infrequent devlog videos on this game for years so my excitement has been building for a while. I could not be happier with the product I got.&lt;/p&gt;
+
+&lt;p&gt;The main draw for me was the gameplay. This is the first &lt;em&gt;expressive&lt;/em&gt; feeling tactics game. The character’s moves give you tons of options on how you want to clear the level. Weather that is knocking everyone out of a window, pushing them all next to an explosive barrel or throwing them through a magic portal you created.&lt;/p&gt;
+
+&lt;p&gt;What I didn’t expect was the story. There were a few moments in this games story that really wow-ed me. Everyone feels like real people. Each character is more complex than just being an archetype and they all have their own reasons for fighting the main force. Without spoiling anything, the conversations in Dall’s stress dreams were my favorite for so many reasons. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;#3 MOLEK-SYNTEZ&lt;/strong&gt; &lt;br /&gt;
+The only non-story pick in this list. I fell in love with basically every Zachtronics game this year, but MOLEK-SYNTEZ is an easy pick. It has the same complexity as all of their other puzzlers, but executes everything so much more succinctly. Solving each puzzle felt super rewarding.&lt;/p&gt;
+
+&lt;p&gt;The extra campaign took me about 4x the time as the main one, but also felt 4x as good to solve. The game was at its best in the very end when I really had to think how to use the weird shapes it gave me to make the weird shapes it wanted.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;#2 Eliza&lt;/strong&gt; &lt;br /&gt;
+Another Zachtronics game in another genre. I don’t usually like visual novels, but this one captured me from the first conversation. The Matthew S Burns uses the subject of AI to talk about and show humans in a way I’ve never seen before. The people in this game feels so real. Every character, even the ones you might hate at the start have incredible amount of depth and reason for what they do. This game makes you look at life through eyes you’ve never seen out of before, sometimes eyes you would never want to see out of.&lt;/p&gt;
+
+&lt;p&gt;This game might seem like science fiction at first, but don’t let it fool you. Its not a game about the future and how robots will work in it then. Its a game about the present and how people function in it now. Every good part of this game is a spoiler so I cant say anything more than that. Play it. Its Amazing.
+My favorite part is the ending. I can’t say why, but it ties everything together perfectly.  &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;#1 Crow Country&lt;/strong&gt; &lt;br /&gt;
+Everything SFB Games make is amazing. They have such an impressive artistic range. Crow Country is easily my favorite thing they’ve made. I went into it not expecting much more than a simple and cute horror game, but got so much more than that.&lt;/p&gt;
+
+&lt;p&gt;Everything about it feels authentic to the time period off of which its based from the anti-aliased UI to the simple animations on the zombies. It doesn’t sacrifice quality for this authenticity. It injects plenty of creative fresh ideas into the formula.&lt;/p&gt;
+
+&lt;p&gt;The puzzles are creative and carefully made - Not being too hard or confusing but still managing to feel rewarding and unique. The train car puzzle is my personal favorite. I’m a big fan of the game’s structure, almost being metroidvania-like. Instead of unlocking new moves, you unlock new information that help you solve old puzzles. Some of the best moments in this come from remembering details you saw 10 rooms ago to solve an optional puzzle that unlocks you a powerful weapon or ability.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t review this game without mentioning the story, but also I cant mention the story without spoiling the best part so you’ll just have to trust me when I say the reason there are zombies in the park and that the backrooms are full of gold are answered in the most satisfying way. All of the writing of the game really effectively contributes to its theming and almost every letter or note you find lying around serves as amazing foreshadowing for the secrets of the park. One of my favorite details is how the never-to-be-finished attraction that you find under-construction signs for at the start of the game serves as an omen for the rest of the story. IVE SAID TOO MUCH! Just go play this now!!!&lt;br /&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;br /&gt;&lt;br /&gt;&lt;hr /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;the-end&quot;&gt;The End!&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;2025 is here now! This is the first year where I’ve released games I enjoy playing and I want to keep doing that. I’ve found much healthier ways to view my work and make stuff this year and I want to stay in it. I’m really starting to feel confident in the quality of my work. I want to grow into that confidence more and make even more of what I want and what I love.&lt;/p&gt;
+
+&lt;p&gt;I want to get better at finishing stuff this year. I still struggle with staying motivated when there’s always a brand new shiny project. I also want to keep making friends and meeting new people! I’ve made so many talented and creative friends this year who’s work constantly inspires me. My final goal is to release at least 1 game on steam for money next year!&lt;/p&gt;
+
+&lt;p&gt;Heres to a great year with lots of games! Happy New Year!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Dec 2024 00:00:00 -0800</pubDate>
+        <link>/2024Roundup</link>
+        <guid isPermaLink="true">/2024Roundup</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        <category>Games</category>
+        
+        <category>Review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>November Roundup 2024</title>
+        <description>&lt;p&gt;&lt;br /&gt;November is over! &lt;br /&gt;
+Wow! I’m actually on time this time and not writing this at midnight! &lt;br /&gt;
+Busy month school-wise so I didn’t make much, but there is some stuff! &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katana Zero Prototype&lt;/strong&gt;&lt;br /&gt;
+Made this as a warmup for a little game jam I did with some friends! &lt;br /&gt; Im proud of the slash animation.
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/zero.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://saturnyoshi.itch.io/&quot;&gt;sarn&lt;/a&gt; and &lt;a href=&quot;https://oroshibu.itch.io/&quot;&gt;oroshibu&lt;/a&gt; got me into making music and I decided to put some of it up on soundcloud this month. &lt;br /&gt; You can listen to it &lt;a href=&quot;https://soundcloud.com/808093&quot;&gt;here&lt;/a&gt;.
+&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Top Down Shooter&lt;/strong&gt;&lt;br /&gt;
+Very boring top down shooter about which I have nothing to say. &lt;br /&gt; I like the kill effect tho.
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/rogue.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deckbuilder Map&lt;/strong&gt;&lt;br /&gt;
+I saw a &lt;a href=&quot;https://cdn.discordapp.com/attachments/979634396376211466/1312546626178646117/image.png?ex=674ce3cd&amp;amp;is=674b924d&amp;amp;hm=10d2abf31308b7b8722afba5d44d05b5ef25e95a0122e90c78ffc818804c5487&amp;amp;&quot;&gt;post&lt;/a&gt; about deckbuilder maps and wanted to try to make one. &lt;br /&gt; I like the weird 3d one.
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/map1.gif&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/map2.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GB Platformer&lt;/strong&gt;&lt;br /&gt;
+Little platformer I made one evening for fun.&lt;br /&gt;
+Maybe I’ll finish it.
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/gb1.gif&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/gb2.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;16x16 Game&lt;/strong&gt;&lt;br /&gt;
+16x16 game in 16 minutes! &lt;br /&gt; I nominate anyone who’s reading this to also do this challenge. Its very fun
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/mini.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Python Asteroids Clone&lt;/strong&gt;&lt;br /&gt;
+An asteroids clone I made in an evening with Zach Barth’s &lt;a href=&quot;https://www.trashworldnews.com/ultra-minimalist/&quot;&gt;ultra minimalist framework&lt;/a&gt; &lt;br /&gt;
+Oh man I almost love it so much, but theres a few things I don’t really want to deal with haha. &lt;br /&gt;
+I’m probably going to try more frameworks in the future. 
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Nov2024/asteroid.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok last thing… &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Minigunn!!!&lt;/strong&gt;&lt;br /&gt;
+Minigunn finally released!!!! This is my first steam release and I’m very proud of it.&lt;br /&gt;
+You can play it for free right &lt;a href=&quot;https://store.steampowered.com/app/3035660/Mini_GUNN/&quot;&gt;here&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn1.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn2.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn3.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn4.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok bye!!!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Nov 2024 00:00:00 -0800</pubDate>
+        <link>/NovemberRoundup2024</link>
+        <guid isPermaLink="true">/NovemberRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>October Roundup 2024</title>
+        <description>&lt;p&gt;Octobers over!&lt;br /&gt; By far my most productive month release-wise and by far my least productive month making-stuff-i-didnt-release-wise &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Modular Game&lt;/strong&gt;&lt;br /&gt;
+I only made 1 prototype this month! It’s a modular wires math game.
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mods.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Critter Switcher&lt;/strong&gt;&lt;br /&gt;
+I colabed with the amazing &lt;a href=&quot;https://x.com/torcado&quot;&gt;Torcado&lt;/a&gt; and the equally amazing &lt;a href=&quot;https://x.com/Keestak&quot;&gt;keestak&lt;/a&gt; for ludum dare!
+We made a little brough-like where you play as various animals. I only did art for this. 
+&lt;a href=&quot;https://torcado.itch.io/critter-switcher&quot;&gt;You can play it here!&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Oct2024/critter.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mouse Snake&lt;/strong&gt;&lt;br /&gt;
+Made this for my annual halloween game jam! Where I make whatever I want after I finish handing out candy.
+I’m pretty proud of this one - I’m glad I made 5 modes in such a short time. 
+&lt;a href=&quot;https://sirmilkman.itch.io/mouse-snake&quot;&gt;You can play it here!&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mouseSnake.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 Week Megamix&lt;/strong&gt;&lt;br /&gt;
+This is my big project!!!! I made 1 game every day for 2 weeks.
+I probably have a blog post coming eventually about how that went.
+The TLDR was it was super fun and I learned a lot about how I make stuff!
+For now heres some gifs and a &lt;a href=&quot;https://sirmilkman.itch.io/two-week-megamix&quot;&gt;link to go play it&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm1.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm2.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm4.gif&quot; /&gt;
+&lt;img id=&quot;myImg&quot; class=&quot;blogImgSmall myImg&quot; src=&quot;/assets/blog/2024/Oct2024/mm3.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;That is all :) Next month i’m gonna relax and make less…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Nov 2024 00:00:00 -0700</pubDate>
+        <link>/OctoberRoundup2024</link>
+        <guid isPermaLink="true">/OctoberRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>September Roundup 2024</title>
+        <description>&lt;p&gt;Oops is october 6th sorry im late. I started a pretty big project right when the month started. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Video games! Still not much because of college. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Car prototype&lt;/strong&gt;&lt;br /&gt;
+Made for a personal 1 hour jam&lt;br /&gt;
+Its not very fun so I didn’t really expand on it at all 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/2024/blog/Sep2024/car.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Code editor&lt;/strong&gt;&lt;br /&gt;
+I made a code editor from scratch half for fun half for a game.
+Turns out it’s really hard to make a text editor! Theres so much you dont think about. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Sep2024/text.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Undertale Battle System&lt;/strong&gt;&lt;br /&gt;
+Spent an evening prototyping a battle system for a little undertale fan game I was going to make with friends.
+Unfortunately it fell through. I might recycle this for something original tho.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Sep2024/deltarune.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Hour Swing Game&lt;/strong&gt;&lt;br /&gt;
+Did this for a 1 hour jam with some of my friends.&lt;br /&gt;
+The theme was ‘swing’ so you swing between blocks.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Sep2024/swing.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drillship TURBO&lt;/strong&gt;&lt;br /&gt;
+This was originally a 1 hour prototype that I expanded into a full game.&lt;br /&gt;
+I’m so proud of this one its so fun.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Its out! And you can &lt;a href=&quot;https://sirmilkman.itch.io/drillship-turbo&quot;&gt;play it here&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Sep2024/drillship.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thats all for this (last) month! See you at the end of October!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 06 Oct 2024 00:00:00 -0700</pubDate>
+        <link>/SeptemberRoundup2024</link>
+        <guid isPermaLink="true">/SeptemberRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>August Roundup 2024</title>
+        <description>&lt;p&gt;August is over! I released two games this month so ironically I didn’t make as many prototypes as usual.
+On top of that, I started college so I’ve had less time to make things.&lt;/p&gt;
+
+&lt;p&gt;Ok ok enough housekeeping lets look at the things.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Renegade Rally&lt;/strong&gt;&lt;br /&gt;
+Made this in 2 weeks for Lowrez Jam 2024
+I think this is one of my favorite games I’ve made. I’m very proud of it.
+It placed 6th place overall!
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/RenegadeRally.gif&quot; alt=&quot;Clip of Renegade Rally&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+You can play it here
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Gmtk 2024&lt;/strong&gt; &lt;br /&gt;
+I joined with Team Bugulon for GMTK 2024. We had some trouble finding an idea and I made 2 prototypes for ideas we didn’t go with.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b id=&quot;photos&quot;&gt;Ultimate Chicken Horse Prototype&lt;/b&gt;&lt;br /&gt;
+The idea for this one was a tower you placed blocks in freely and had to climb up. We didn’t choose it because it would be hard do design.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/BugulonConcept2.gif&quot; alt=&quot;Clip of the first GMTK concept.&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scaffolding Prototype&lt;/strong&gt;&lt;br /&gt;
+This one was my idea. You would have limited amount and types of scaffolding that you had to use to climb up a tower. We didn’t go with it tho :(
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/BugulonConcept1.gif&quot; alt=&quot;Clip of the second GMTK concept.&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gatotag&lt;/strong&gt;&lt;br /&gt;
+The final product! We made a platformer where you climb towers by placing down blocks.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/Gatotag.gif&quot; alt=&quot;Clip of Gatotag&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+Play here now OR ELSE!!!
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(Bonus) Block editor&lt;/strong&gt;&lt;br /&gt;
+Since all of the blocks in Gatotag are saved as strings of numbers, I had to make an editor for our level designer to make them.
+I really like making editors for my things, but this was my first time making one not just for me. Squp gave great feedback that helped a bunch.
+Heres a clip of how it works!
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/GatotagBlockBuilder.gif&quot; alt=&quot;Clip of Gatotag&apos;s block builder.&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mario Bros 2 Idea&lt;/strong&gt;&lt;br /&gt;
+A small platformer prototype based on Mario Bros 2.
+It feels bad to control.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Aug2024/MarioBros2.gif&quot; alt=&quot;Clip of a platformer inspired by mario bros 2.&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok BYEEEEEEEEEEEEE&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 31 Aug 2024 00:00:00 -0700</pubDate>
+        <link>/AugustRoundup2024</link>
+        <guid isPermaLink="true">/AugustRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>July Roundup 2024</title>
+        <description>&lt;p&gt;Julys over! Byebye July!&lt;br /&gt;
+This was a month with a lot of prototyping! &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flywrench Spaceship&lt;/strong&gt;&lt;br /&gt;
+This one is a top down flywrench type game!&lt;br /&gt;
+I like the concept, but don’t really want to design a lot of levels for it. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/flywrench.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mech Jam Game&lt;/strong&gt;&lt;br /&gt;
+This was a work in progress game made for the Mech Jam
+but unfortunately I wasnt able to finish it. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/mechJam.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dither Fog&lt;/strong&gt;&lt;br /&gt;
+This was a small experiment trying to re-create an effect done in a Punkcake game. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/dithering.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mechanics Platformer&lt;/strong&gt;&lt;br /&gt;
+A platformer controller I made because ivysly was making one and it made me one to make one. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/platformer.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warioware Platformer Game&lt;/strong&gt;&lt;br /&gt;
+A little 3 hour prototype of a warioware idea where you have to complete platformer levels
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/warioware.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spaceship Shooter&lt;/strong&gt;&lt;br /&gt;
+Couldnt make this fun so I gave up on it. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/asteroids.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Particles Shooter&lt;/strong&gt;&lt;br /&gt;
+This was a project to help me learn how to make good particles.&lt;br /&gt; I think it went well. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/particlesShooter.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mouse Snake&lt;/strong&gt;&lt;br /&gt;
+Made in 15 minutes! Its fun! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/mouseSnake.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;World Of Goo Clone&lt;/strong&gt;&lt;br /&gt;
+I am so freaking excited for World Of Goo 2!!!!! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/wog.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make 10 Plus&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Made in 3 hours for a personal game jam.&lt;br /&gt;
+Add numbers and get to the bottom.&lt;br /&gt;
+&lt;a href=&quot;https://sirmilkman.itch.io/make-10-plus&quot;&gt;Play it here!&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/make10.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maintenence Break&lt;/strong&gt;&lt;br /&gt;
+Made in 4 days with &lt;a href=&quot;https://sites.google.com/view/boomboxscorner/home&quot;&gt;BoomBox5&lt;/a&gt; and &lt;a href=&quot;https://skooka.itch.io/&quot;&gt;skooka&lt;/a&gt;&lt;br /&gt;
+Solve some puzzles in this atmospheric adventure game.&lt;br /&gt;
+&lt;a href=&quot;https://sirmilkman.itch.io/maintenance-break&quot;&gt;Play Now&lt;/a&gt;!!!! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jul2024/maintenanceBreak.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next up is the lowres jam!&lt;br /&gt;
+Excited for that!&lt;br /&gt;
+Bye! &lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Jul 2024 00:00:00 -0700</pubDate>
+        <link>/JulyRoundup2024</link>
+        <guid isPermaLink="true">/JulyRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>June Roundup 2024</title>
+        <description>&lt;p&gt;June is over and its roundup time!&lt;br /&gt;
+I didn’t do much this month because I took a vacation!&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mooncat&lt;/strong&gt;&lt;br /&gt;
+I’ve been working on a little gameboy inspired platformer!
+Although I hate the term, I would probably call this my “dream game.” Unfortunately, it probably won’t release for a while because I super overscoped it haha. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/mooncat.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room Camera System&lt;/strong&gt;&lt;br /&gt;
+Every time I get burnt out, I go back to making the same shooty gun game! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/rooms.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Desert Game&lt;/strong&gt;&lt;br /&gt;
+Based on a dream of a game I had. In the dream you walked around and got pushed around by sandstorms.
+I think there were towers you platformed up and the sandstorms knocked you off.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/desert.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mockups!&lt;/strong&gt;&lt;br /&gt;
+I’ve been trying to get better at pixelart recently.
+Here are some of my favorite pieces I’ve done. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/rabbit.png&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/zelda.png&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/computer.png&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/houses.png&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/hld.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;│ ■ │&lt;/strong&gt;&lt;br /&gt;
+Made for the Pursuing Pixels Game Jam with &lt;a href=&quot;https://bsky.app/profile/plutobirdo.bsky.social&quot;&gt;sarn&lt;/a&gt;&lt;br /&gt;
+It’s a weird DSI inspired bullet hell game.&lt;br /&gt;
+&lt;a href=&quot;https://sirmilkman.itch.io/lines&quot;&gt;You can play it here!&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jun2024/lines.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok thats all byebye&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 -0700</pubDate>
+        <link>/JuneRoundup2024</link>
+        <guid isPermaLink="true">/JuneRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>April + May Roundup 2024</title>
+        <description>&lt;p&gt;Woah! I missed a month! I’ve been too busy to sit down and write a post lately.&lt;br /&gt;
+Well lets not waste any more time. Heres the biggest thing! &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flywrench Spaceship&lt;/strong&gt;&lt;br /&gt;
+This one is a top down flywrench type game!&lt;br /&gt;
+I like the concept, but don’t really want to design a lot of levels for it. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn1.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn2.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn3.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/May2024/minigunn4.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay with that out of the way, here are some prototypes.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Factory Game&lt;/strong&gt;&lt;br /&gt;
+A small experiment with gamemaker’s physics! Was going to be a game where you explore a moving factory, but the idea didn’t really excite me enough to become any bigger than it is. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/factory.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joystick Ship Controller&lt;/strong&gt;&lt;br /&gt;
+This one is really small. I wanted to try making an onscreen joystick that controlled a ship. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/joystick.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spaceship Builder&lt;/strong&gt;&lt;br /&gt;
+Another small 1-2 hour thing. A spaceship builder with somewhat accurate physics. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/spaceships.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(Bonus) Rapidoodle&lt;/strong&gt;&lt;br /&gt;
+Made for the bullet hell jam 2024 in 4ish days. I see colors when &lt;br /&gt;I close my eyes! &lt;br /&gt;
+&lt;a href=&quot;https://sirmilkman.itch.io/rapidoodle&quot;&gt;Play It Here&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/rapidoodle.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT IS GOING ON?!&lt;/strong&gt;&lt;br /&gt;
+Released back in March but never formally made it into a roundup.&lt;br /&gt;
+&lt;a href=&quot;https://sirmilkman.itch.io/what-is-going-on&quot;&gt;Play It Here&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/gay.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Snakes&lt;/strong&gt;&lt;br /&gt;
+A collection of 35 versions of the classic nokia game “Snake.” &lt;br /&gt;Releasing sometime when I finish it… 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/snakes3.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/snakes2.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg myImg&quot; src=&quot;/assets/blog/2024/May2024/snakes4.gif&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thats all for now! See you next month hopefully :P&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 May 2024 00:00:00 -0700</pubDate>
+        <link>/MayRoundup2024</link>
+        <guid isPermaLink="true">/MayRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>February Roundup 2024.. Wait It&apos;s March?</title>
+        <description>&lt;p&gt;I better write this roundup before February ends.. wait what? Its March 2nd? Whoops.&lt;br /&gt;
+Well anyway heres what I made last month. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Door Kicker Deluxe!!!!&lt;/strong&gt;&lt;br /&gt;
+I did very little this month on account of being sick, but I did get a game out: &lt;a href=&quot;https://sirmilkman.itch.io/door-kicker-deluxe&quot;&gt;Play it now&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Feb2024/doorkicker.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gunibalt&lt;/strong&gt;&lt;br /&gt;
+A little Canibalt clone with guns. It didnt turn out as fun as I wanted it to so I scrapped it. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Feb2024/gunibalt.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Breach Game Prototype&lt;/strong&gt;&lt;br /&gt;
+This was my original idea for my Brackey’s Game Jam game. You were going to breach rooms and knock people out of windows. It wasnt fun tho. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Feb2024/tactics.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bouncyball Platformer&lt;/strong&gt;&lt;br /&gt;
+Idk what this is. Kinda fun though! 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Feb2024/balls.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I think thats it I’ll see you next (this???) month!&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Mar 2024 00:00:00 -0800</pubDate>
+        <link>/FebruaryRoundup2024</link>
+        <guid isPermaLink="true">/FebruaryRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>January Roundup 2024</title>
+        <description>&lt;p&gt;First month of 2024! This month I didnt do much.&lt;br /&gt;
+Heres what I did do tho:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;File System Game&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Didnt really know what I wanted this to become, but i’m really proud of how stylish it is. It also can function as a file browser and read .txt files!
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jan2024/terminal.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Box Kicker&lt;/strong&gt;&lt;br /&gt;
+Made this in like 15 minutes because I was feeling burnt out. Not very interesting.
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jan2024/arcedey.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Snake Game&lt;/strong&gt;&lt;br /&gt;
+Snake game with rotational sprites! Super modular and also not every interesting. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jan2024/snake.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Minesweeper&lt;/strong&gt;&lt;br /&gt;
+This is just regular minesweeper. I made this because I wanted to play minesweeper but didn’t have internet (I still dont at the time of writing).&lt;br /&gt;
+&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jan2024/minesweeper.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dreadwood Hunter&lt;/strong&gt;&lt;br /&gt;
+January’s game! Made in 8 hours. I’m really proud of the aiming system. I wanted to replicated 3d “aiming down sights” in 2d and think I nailed it. &lt;a href=&quot;https://sirmilkman.itch.io/dreadwood-hunter&quot;&gt;Play it&lt;/a&gt; and tell me what you think. 
+&lt;br /&gt;&lt;br /&gt;&lt;img class=&quot;blogImg myImg&quot; src=&quot;/assets/blog/2024/Jan2024/dreadwood.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 31 Jan 2024 00:00:00 -0800</pubDate>
+        <link>/JanuaryRoundup2024</link>
+        <guid isPermaLink="true">/JanuaryRoundup2024</guid>
+        
+        <category>Roundup</category>
+        
+        <category>Gamedev</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
