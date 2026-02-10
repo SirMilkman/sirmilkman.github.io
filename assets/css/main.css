@@ -125,10 +125,7 @@ width: 1200px;
   }
  
 
-.logomain{
-  font-size: clamp(24px, 7vw, 60px);
-  color: black;
-}
+
 .logosub{
   font-size: 20px;
   color: black;
@@ -154,7 +151,7 @@ width: 1200px;
 }
 .naviLink {
   color: black !important;
-  text-decoration: none;
+  text-decoration: none !important;
 } 
 
 .lineHeader{
@@ -179,7 +176,7 @@ width: 1200px;
   top: 10px;
   margin-right: 5px;
   text-align: left;
- 
+ text-decoration: none;
   width: 100%;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -314,6 +311,7 @@ img.crisp {
     transform: scale(1.2);
     font-size: 12px;
     border-radius: 4px;
+    background-color: transparent !important;
 }
 
 
@@ -357,11 +355,7 @@ img.crisp {
   border-radius: 4px;
 }
 
-.socialLogo{
-  width: 35px;
-  padding-left: 10px;
-  filter: brightness(0);
-}
+
 .socialLogoNoINT{
   
   padding-bottom: 8px;
@@ -414,6 +408,28 @@ img.crisp {
   
 }
 
+.link{
+  text-decoration: none !important;
+}
+
+a,
+a:link,
+a:visited,
+a:active {
+  color: var(--green) ;
+  
+  background-color: var(--mg-color);
+  text-decoration: underline;
+  padding-top: 2px;
+  
+
+}
+a:hover{
+  color: var(--mg-color) ;
+  background-color: var(--green);
+  
+}
+
 .blackLink,
 .blackLink:link,
 .blackLink:visited,
@@ -461,4 +477,28 @@ li::marker {
 .small{
   font-size: 18px !important;
   font-weight: normal !important;
+}
+
+.logomain{
+  font-size: clamp(24px, 7vw, 60px);
+  color: black !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+}
+.logomain:hover{
+
+  text-decoration: underline !important;
+}
+
+
+.socialLogo{
+  width: 35px;
+  padding-left: 10px;
+  filter: brightness(0);
+  
+}
+
+.noUL{
+background-color: transparent !important;
+  text-decoration: none !important;
 }
